@@ -1,0 +1,1208 @@
+# Skills Index
+
+Total: 1110 skills
+
+---
+
+## CloudInfrastructureAndServices (1)
+
+- **firebase-basics** (automatic): Provides foundational Firebase CLI setup, CLI installation, version checks (`firebase-tools@latest -
+
+## Identity (1)
+
+- **firebase-auth-basics** (automatic): Guide for setting up and using Firebase Authentication. Use this skill when the user's app requires 
+
+## developer-tools (1)
+
+- **mcp-tool-developer** (automatic): Use only when explicitly requested by name. Build Model Context Protocol (MCP) servers and tools fro
+
+## development (2)
+
+- **api-endpoint-builder** (automatic): Builds production-ready REST API endpoints with validation, error handling, authentication, and docu
+- **ontoly-software-graph** (automatic): Use Ontoly's deterministic Software Graph, MCP server, and agent skills for architecture review, req
+
+## devops (1)
+
+- **docker-expert** (automatic): You are an advanced Docker containerization expert with comprehensive, practical knowledge of contai
+
+## granular-workflow-bundle (2)
+
+- **api-documentation** (automatic): API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining 
+- **api-security-testing** (automatic): API security testing workflow for REST and GraphQL APIs covering authentication, authorization, rate
+
+## project-management (1)
+
+- **feature-tracking** (automatic): Maintain durable feature-level memory across AI coding sessions with lightweight Markdown tracks for
+
+## security (1)
+
+- **container-security-hardening** (automatic): Harden Docker/container images and runtime deployments with secure base images, non-root users, CVE 
+
+## testing (2)
+
+- **k6-load-testing** (automatic): Comprehensive k6 load testing skill for API, browser, and scalability testing. Write realistic load 
+- **unit-test-vue-pinia** (automatic): Write and review unit tests for Vue 3 + TypeScript + Vitest + Pinia codebases. Use when creating or 
+
+## uncategorized (1098)
+
+- **3d-web-experience** (automatic): Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and inte
+- **ab-testing** (automatic): When the user wants to plan, design, or implement an A/B test or experiment, or build a growth exper
+- **accessibility** (automatic): Audit and improve web accessibility following WCAG 2.2 guidelines. Use when asked to "improve access
+- **acquire-codebase-knowledge** (automatic): Use this skill when the user explicitly asks to map, document, or onboard into an existing codebase.
+- **acreadiness-assess** (automatic): Run the AgentRC readiness assessment on the current repository and produce a static HTML dashboard a
+- **acreadiness-generate-instructions** (automatic): Generate tailored AI agent instruction files via AgentRC instructions command. Produces .github/copi
+- **acreadiness-policy** (automatic): Help the user pick, write, or apply an AgentRC policy. Policies customise readiness scoring by disab
+- **ad-campaign-analyzer** (automatic): Use this skill when the user shares ad campaign performance data and asks what to cut, scale, or tes
+- **ad-creative** (automatic): When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary te
+- **add-educational-comments** (automatic): Add educational comments to the file specified, or prompt asking for file to comment if one is not p
+- **address-sanitizer** (automatic): AddressSanitizer detects memory errors during fuzzing. Use when fuzzing C/C++ code to find buffer ov
+- **adobe-illustrator-scripting** (automatic): Write, debug, and optimize Adobe Illustrator automation scripts using ExtendScript (JavaScript/JSX).
+- **ads** (automatic): When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), L
+- **aflpp** (automatic): AFL++ is a fork of AFL with better fuzzing performance and advanced features. Use for multi-core fuz
+- **agent-browser** (automatic): Browser automation CLI for AI agents. Use when the user needs to interact with websites, including n
+- **agent-evaluation** (automatic): Testing and benchmarking LLM agents including behavioral testing, capability assessment, reliability
+- **agent-governance** (automatic): Patterns and techniques for adding governance, safety, and trust controls to AI agent systems. Use t
+- **agent-introspection-debugging** (automatic): Structured self-debugging workflow for AI agent failures using capture, diagnosis, contained recover
+- **agent-memory-systems** (automatic): Memory is the cornerstone of intelligent agents. Without it, every interaction starts from zero. Thi
+- **agent-owasp-compliance** (automatic): Check any AI agent codebase against the OWASP Agentic Security Initiative (ASI) Top 10 risks.
+Use th
+- **agent-skill-stack** (automatic): Find, evaluate, and assemble the smallest compatible set of AI Agent Skills for an end-to-end natura
+- **agent-sort** (automatic): Build an evidence-backed ECC install plan for a specific repo by sorting skills, commands, rules, ho
+- **agent-supply-chain** (automatic): Verify supply chain integrity for AI agent plugins, tools, and dependencies. Use this skill when:
+- 
+- **agentic-actions-auditor** (automatic): Audits GitHub Actions workflows for security vulnerabilities in AI agent integrations including Clau
+- **agentic-eval** (automatic): Patterns and techniques for evaluating and improving AI agent outputs. Use this skill when:
+- Implem
+- **agentic-workflows** (automatic): Route gh-aw workflow design/create/debug/upgrade requests to the right prompts.
+- **agents-md** (automatic): Creates and maintains concise AGENTS.md and CLAUDE.md project instruction files. Use when asked to c
+- **agents-sdk** (automatic): Build AI agents on Cloudflare Workers using the Agents SDK. Load when creating stateful agents, dura
+- **ai-agents-architect** (automatic): Expert in designing and building autonomous AI agents. Masters tool use, memory systems, planning st
+- **ai-prompt-engineering-safety-review** (automatic): Comprehensive AI prompt engineering safety review and improvement prompt. Analyzes prompts for safet
+- **ai-ready** (automatic): Make any repo AI-ready — analyzes your codebase and generates AGENTS.md, copilot-instructions.md, CI
+- **ai-sdk** (automatic): Answer questions about the AI SDK and help build AI-powered features. Use when developers: (1) Ask a
+- **ai-seo** (automatic): When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-ge
+- **ai-team-orchestration** (automatic): Bootstrap and run a lightweight multi-agent development team. Use when starting or adopting a projec
+- **ai-workflow-diagnostics** (automatic): Perform a systematic diagnostic scan of an AI workflow across 5 quality dimensions — prompt quality,
+- **airflow-dag-patterns** (automatic): Build production Apache Airflow DAGs with best practices for operators, sensors, testing, and deploy
+- **algorand-vulnerability-scanner** (automatic): Scans Algorand smart contracts for 11 common vulnerabilities including rekeying attacks, unchecked t
+- **algorithmic-art** (automatic): Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. U
+- **analytics** (automatic): When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when t
+- **analytics-dashboard** (automatic): Turn a LinkedIn Analytics export into an interactive dark-themed React dashboard plus a written stra
+- **angular-architect** (automatic): Generates Angular 17+ standalone components, configures advanced routing with lazy loading and guard
+- **animate** (automatic): Build an animation from scratch, making the decisions in the order that determines whether it feels 
+- **animation-vocabulary** (automatic): Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its 
+- **anti-ui-slop** (automatic): Stop AI coding agents from shipping generic UI. Use for web or mobile UI design, frontend implementa
+- **api-design** (automatic): REST API design patterns including resource naming, status codes, pagination, filtering, error respo
+- **api-design-principles** (automatic): Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs th
+- **api-designer** (automatic): Use when designing REST or GraphQL APIs, creating OpenAPI specifications, or planning API architectu
+- **api-integration** (automatic): Designs event-driven architectures, webhook systems, API chaining flows, ETL pipelines, and integrat
+- **api-patterns** (automatic): Use only when explicitly requested by name. API design principles and decision-making. REST vs Graph
+- **api-security-best-practices** (automatic): Implement secure API design patterns including authentication, authorization, input validation, rate
+- **app-store-changelog** (automatic): Create user-facing App Store release notes by collecting and summarizing all user-impacting changes 
+- **appinsights-instrumentation** (automatic): Instrument a webapp to send useful telemetry data to Azure App Insights
+- **apple-appstore-reviewer** (automatic): Serves as a reviewer of the codebase with instructions on looking for Apple App Store optimizations 
+- **apple-design** (automatic): Apple's approach to interface design and fluid, physical motion, translated for the web. Use when bu
+- **arch-linux-triage** (automatic): Triage and resolve Arch Linux issues with pacman, systemd, and rolling-release best practices.
+- **architecture-blueprint-generator** (automatic): Comprehensive project architecture blueprint generator that analyzes codebases to create detailed ar
+- **architecture-decision-records** (automatic): Write and maintain Architecture Decision Records (ADRs) following best practices for technical decis
+- **architecture-designer** (automatic): Use when designing new high-level system architecture, reviewing existing designs, or making archite
+- **architecture-patterns** (automatic): Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture,
+- **arduino-azure-iot-edge-integration** (automatic): Design and implement Arduino integration with Azure IoT Hub and IoT Edge, including secure provision
+- **arize-ai-provider-integration** (automatic): Creates, reads, updates, and deletes Arize AI integrations that store LLM provider credentials used 
+- **arize-annotation** (automatic): Creates and manages annotation configs (categorical, continuous, freeform label schemas) and annotat
+- **arize-dataset** (automatic): Creates, manages, and queries Arize datasets and examples. Covers dataset CRUD, appending examples, 
+- **arize-evaluator** (automatic): Handles LLM-as-judge evaluation workflows on Arize including creating/updating evaluators, running e
+- **arize-experiment** (automatic): Creates, runs, and analyzes Arize experiments for evaluating and comparing model performance. Covers
+- **arize-instrumentation** (automatic): Adds Arize AX tracing to an LLM application for the first time. Follows a two-phase agent-assisted f
+- **arize-link** (automatic): Generates deep links to the Arize UI for traces, spans, sessions, datasets, labeling queues, evaluat
+- **arize-prompt-optimization** (automatic): Optimizes, improves, and debugs LLM prompts using production trace data, evaluations, and annotation
+- **arize-trace** (automatic): Downloads, exports, and inspects existing Arize traces and spans to understand what an LLM app is do
+- **article-writing** (automatic): Write articles, guides, blog posts, tutorials, newsletter issues, and other long-form content in a d
+- **aso** (automatic): When the user wants to audit or optimize an App Store or Google Play listing. Also use when the user
+- **aspire** (automatic): Aspire skill covering the Aspire CLI, AppHost orchestration, service discovery, integrations, MCP se
+- **aspnet-minimal-api-openapi** (automatic): Create ASP.NET Minimal API endpoints with proper OpenAPI documentation
+- **atheris** (automatic): Atheris is a coverage-guided Python fuzzer based on libFuzzer. Use for fuzzing pure Python code and 
+- **atlassian-mcp** (automatic): Integrates with Atlassian products to manage project tracking and documentation via MCP protocol. Us
+- **attribution** (automatic): When the user wants to figure out which marketing actually drives conversions and revenue, choose or
+- **audit-augmentation** (automatic): Augments Trailmark code graphs with external audit findings from SARIF static analysis results, weAu
+- **audit-context-building** (automatic): Enables ultra-granular, line-by-line code analysis to build deep architectural context before vulner
+- **audit-integrity** (automatic): Shared audit integrity framework for all AppSec agents — enforces output quality, intellectual hones
+- **audit-prep-assistant** (automatic): Prepares codebases for security review using Trail of Bits' checklist. Helps set review goals, runs 
+- **auth-implementation-patterns** (automatic): Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC
+- **automate-this** (automatic): Analyze a screen recording of a manual process and produce targeted, working automation scripts. Ext
+- **autoresearch** (automatic): Autonomous iterative experimentation loop for any programming task. Guides the user through defining
+- **aws-cdk-python-setup** (automatic): Setup and initialization guide for developing AWS CDK (Cloud Development Kit) applications in Python
+- **aws-cloudwatch-investigation** (automatic): Reusable investigation patterns for AWS CloudWatch: Logs Insights query templates, alarm-to-deployme
+- **aws-cost-optimize** (automatic): Analyze AWS resources used in the app (IaC files and/or resources in a target account/region) and op
+- **aws-resource-health-diagnose** (automatic): Analyze AWS resource health, diagnose issues from CloudWatch logs and metrics, and create a remediat
+- **aws-resource-query** (automatic): Query AWS resources using natural language. Covers EC2, S3, RDS, Lambda, ECS, EKS, Secrets Manager, 
+- **aws-serverless** (automatic): Specialized skill for building production-ready serverless applications on AWS. Covers Lambda functi
+- **aws-well-architected-review** (automatic): Perform an AWS Well-Architected Framework review of the current workload IaC and architecture, gener
+- **az-cost-optimize** (automatic): Analyze Azure resources used in the app (IaC files and/or resources in a target rg) and optimize cos
+- **azure-architecture-autopilot** (automatic): Design Azure infrastructure using natural language, or analyze existing Azure resources to auto-gene
+- **azure-container-registry-cli** (automatic): Manage Azure Container Registry via the az acr CLI including registries, images, cloud builds, ACR T
+- **azure-deployment-preflight** (automatic): Performs comprehensive preflight validation of Bicep deployments to Azure, including template syntax
+- **azure-devops-cli** (automatic): Manage Azure DevOps resources via CLI including projects, repos, pipelines, builds, pull requests, w
+- **azure-pricing** (automatic): Fetches real-time Azure retail pricing using the Azure Retail Prices API (prices.azure.com) and esti
+- **azure-resource-health-diagnose** (automatic): Analyze Azure resource health, diagnose issues from logs and telemetry, and create a remediation pla
+- **azure-resource-visualizer** (automatic): Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the relati
+- **azure-role-selector** (automatic): When user is asking for guidance for which role to assign to an identity given desired permissions, 
+- **azure-smart-city-iot-solution-builder** (automatic): Design and plan end-to-end Azure IoT and Smart City solutions: requirements, architecture, security,
+- **azure-static-web-apps** (automatic): Helps create, configure, and deploy Azure Static Web Apps using the SWA CLI. Use when deploying stat
+- **azure-well-architected-review** (automatic): Perform an Azure Well-Architected Framework review of the current workload IaC and architecture, gen
+- **backend-architect** (automatic): Expert backend architect specializing in scalable API design, microservices architecture, and distri
+- **backend-patterns** (automatic): Backend architecture patterns, API design, database optimization, and server-side best practices for
+- **backend-security-coder** (automatic): Expert in secure backend coding practices specializing in input validation, authentication, and API 
+- **banner-design** (automatic): Design banners for social media, ads, website heroes, creative assets, and print. Multiple art direc
+- **bash-linux** (automatic): Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working
+- **batch-files** (automatic): Expert-level Windows batch file (.bat/.cmd) skill for writing, debugging, and maintaining CMD script
+- **bench-read** (automatic): Read artifacts from the shared bench — the workspace where desks leave findings, verdicts, and work 
+- **benchmark-methodology** (automatic): Use after competitive-platform-analysis has produced a tiered competitor set. Scores each competitor
+- **best-practices** (automatic): Apply modern web development best practices for security, compatibility, and code quality. Use when 
+- **better-auth-best-practices** (automatic): Configure Better Auth server and client, set up database adapters, manage sessions, add plugins, and
+- **better-auth-security-best-practices** (automatic): Configure rate limiting, manage auth secrets, set up CSRF protection, define trusted origins, secure
+- **bigquery-pipeline-audit** (automatic): Audits Python + BigQuery pipelines for cost safety, idempotency, and production readiness. Returns a
+- **blog-writing-guide** (automatic): Write, review, and improve blog posts for the Sentry engineering blog following Sentry's specific wr
+- **boost-prompt** (automatic): Interactive prompt refinement workflow: interrogates scope, deliverables, constraints; copies final 
+- **brag-sheet** (automatic): Turn vague "what did I do?" into evidence-backed impact statements for performance reviews, self-rev
+- **brainstorming** (automatic): Use only when explicitly requested by name. You MUST use this before any creative work - creating fe
+- **brand** (automatic): Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate fo
+- **brand-discovery** (automatic): Use when a brand needs to discover or articulate its identity through structured multi-session inter
+- **brand-guidelines** (automatic): Write copy following Sentry brand guidelines. Use when writing UI text, error messages, empty states
+- **brand-voice** (automatic): Build a source-derived writing style profile from real posts, essays, launch notes, docs, or site co
+- **breakdown-epic-arch** (automatic): Prompt for creating the high-level technical architecture for an Epic, based on a Product Requiremen
+- **breakdown-epic-pm** (automatic): Prompt for creating an Epic Product Requirements Document (PRD) for a new epic. This PRD will be use
+- **breakdown-feature-implementation** (automatic): Prompt for creating detailed feature implementation plans, following Epoch monorepo structure.
+- **breakdown-feature-prd** (automatic): Prompt for creating Product Requirements Documents (PRDs) for new features, based on an Epic.
+- **breakdown-plan** (automatic): Issue Planning and Automation prompt that generates comprehensive project plans with Epic > Feature 
+- **breakdown-test** (automatic): Test Planning and Quality Assurance prompt that generates comprehensive test strategies, task breakd
+- **browser-automation** (automatic): Use only when explicitly requested by name. Browser automation powers web testing, scraping, and AI 
+- **browser-use** (automatic): Use only when explicitly requested by name. Direct browser control via CDP for web interaction: auto
+- **bug-hunt-swarm** (automatic): Parallel read-only multi-agent root-cause investigation for bugs, regressions, crashes, flaky behavi
+- **bug-reproduction-brief** (automatic): Turn a vague, intermittent, or environment-specific bug report into a minimal evidence-backed reprod
+- **build-evidence-map** (automatic): Build an auditable evidence map for a contested technical choice, research synthesis, proposal revie
+- **bun-runtime** (automatic): Bun as runtime, package manager, bundler, and test runner. When to choose Bun vs Node, migration not
+- **burpsuite-project-parser** (automatic): Searches and explores Burp Suite project files (.burp) from the command line. Use when searching res
+- **c-review** (automatic): Review C code for memory safety, undefined behavior, integer and bounds errors, ownership mistakes, 
+- **cairo-vulnerability-scanner** (automatic): Scans Cairo/StarkNet smart contracts for 6 critical vulnerabilities including felt252 arithmetic ove
+- **canvas-design** (automatic): Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this 
+- **canvas-generative** (automatic): Algorithmic and generative art with Canvas 2D - particles, flow fields, noise, fractals, L-systems.
+- **captions-overlay** (automatic): Overlay doctrine for the embedded-captions workflow — the caption MODEL (drop / rail / embed) and th
+- **cargo-fuzz** (automatic): cargo-fuzz is the de facto fuzzing tool for Rust projects using Cargo. Use for fuzzing Rust code wit
+- **cast** (automatic): Cast genjutsu on a UI - creative coding for motion, micro-interactions, and wow-factor. Scans the st
+- **cavecrew** (automatic): Decision guide for delegating to caveman-style subagents. Tells the main thread WHEN to spawn `cavec
+- **caveman** (automatic): Ultra-compressed communication mode. Cuts output tokens 65% (measured) by speaking like caveman whil
+- **caveman-commit** (automatic): Ultra-compressed commit message generator. Cuts noise from commit messages while preserving intent a
+- **caveman-compress** (automatic): Compress natural language memory files (CLAUDE.md, todos, preferences) into caveman format to save i
+- **caveman-help** (automatic): Quick-reference card for all caveman modes, skills, and commands. One-shot display, not a persistent
+- **caveman-review** (automatic): Ultra-compressed code review comments. Cuts noise from PR feedback while preserving the actionable s
+- **caveman-stats** (automatic): Show real token usage and estimated savings for the current session. Reads directly from the Claude 
+- **cc-skill-security-review** (automatic): Use only when explicitly requested by name. This skill ensures all code follows security best practi
+- **centos-linux-triage** (automatic): Triage and resolve CentOS issues using RHEL-compatible tooling, SELinux-aware practices, and firewal
+- **changelog-automation** (automatic): Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use
+- **changelog-video** (automatic): Turn a weekly changelog .md into a finished branded changelog video (square 1080, ~45-60s, Annie VO,
+- **chaos-engineer** (automatic): Designs chaos experiments, creates failure injection frameworks, and facilitates game day exercises 
+- **chrome-devtools** (automatic): Expert-level browser automation, debugging, and performance analysis using Chrome DevTools MCP. Use 
+- **chrome-mcp-troubleshooting** (automatic): Diagnose and fix Claude in Chrome MCP extension connectivity issues. Use when mcp__claude-in-chrome_
+- **churn-prevention** (automatic): When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed pa
+- **ci-cd-and-automation** (automatic): Automates CI/CD pipeline setup. Use when setting up or modifying build and deployment pipelines. Use
+- **claude-api** (automatic): Authoritative Claude API and Anthropic SDK reference for model IDs, pricing, parameters, streaming, 
+- **claude-settings-audit** (automatic): Analyze a repository to generate recommended Claude Code settings.json permissions. Use when setting
+- **cli-developer** (automatic): Use when building CLI tools, implementing argument parsing, or adding interactive prompts. Invoke fo
+- **cli-mastery** (automatic): Interactive training for the GitHub Copilot CLI. Guided lessons, quizzes, scenario challenges, and a
+- **cloud-architect** (automatic): Designs cloud architectures, creates migration plans, generates cost optimization recommendations, a
+- **cloud-design-patterns** (automatic): Cloud design patterns for distributed systems architecture covering 42 industry-standard patterns ac
+- **cloud-solution-architect** (automatic): Transform the agent into a Cloud Solution Architect following Azure Architecture Center best practic
+- **cloudflare** (automatic): Comprehensive Cloudflare platform skill covering Workers, Pages, storage (KV, D1, R2), AI (Workers A
+- **co-marketing** (automatic): When the user wants to find co-marketing partners, plan joint campaigns, or brainstorm partnership o
+- **code-documenter** (automatic): Generates, formats, and validates technical documentation — including docstrings, OpenAPI/Swagger sp
+- **code-exemplars-blueprint-generator** (automatic): Technology-agnostic prompt generator that creates customizable AI prompts for scanning codebases and
+- **code-maturity-assessor** (automatic): Systematic code maturity assessment using Trail of Bits' 9-category framework. Analyzes codebase for
+- **code-review** (automatic): Perform code reviews following Sentry engineering practices. Use when reviewing pull requests, exami
+- **code-review-checklist** (automatic): Use only when explicitly requested by name. Comprehensive checklist for conducting thorough code rev
+- **code-reviewer** (automatic): Analyzes code diffs and files to identify bugs, security vulnerabilities (SQL injection, XSS, insecu
+- **code-security** (automatic): Apply language-agnostic secure-coding rules to security-sensitive code involving untrusted input, au
+- **code-simplifier** (automatic): Simplifies and refines code for clarity, consistency, and maintainability while preserving all funct
+- **code-tour** (automatic): Use this skill to create CodeTour .tour files — persona-targeted, step-by-step walkthroughs that lin
+- **codebase-design** (automatic): Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module'
+- **codebase-memory-mcp** (automatic): Use when a configured codebase-memory-mcp server can assist with graph-backed code discovery, archit
+- **codeql** (automatic): Scans a codebase for security vulnerabilities using CodeQL's interprocedural data flow and taint tra
+- **coding-standards** (automatic): Baseline cross-project coding conventions for naming, readability, immutability, and code-quality re
+- **cold-email** (automatic): Write B2B cold emails and follow-up sequences that get replies. Use when the user wants to write col
+- **comment-code-generate-a-tutorial** (automatic): Transform this Python script into a polished, beginner-friendly project by refactoring the code, add
+- **commit** (automatic): Use only when explicitly requested by name. Use for every request to commit changes or draft a commi
+- **commit-message-storyteller** (automatic): Analyzes git diffs or staged changes and generates narrative commit messages that explain WHY a chan
+- **community-marketing** (automatic): Build and leverage online communities to drive product growth and brand loyalty. Use when the user w
+- **competitive-platform-analysis** (automatic): Use when scoping a competitive landscape — identifying, categorising, and score-filtering a competit
+- **competitive-report-structure** (automatic): Use after benchmark-methodology has produced scored competitor profile cards. Assembles findings int
+- **competitor-ad-intelligence** (automatic): Use this skill when the user asks to analyze, tear down, or reverse-engineer a competitor's paid ads
+- **competitor-profiling** (automatic): When the user wants to research, profile, or analyze competitors from their URLs. Also use when the 
+- **competitors** (automatic): When the user wants to create competitor comparison or alternative pages for SEO and sales enablemen
+- **complexity-cuts** (automatic): Lower Big-O on existing code via a one-transformation-at-a-time playbook with verify-revert-stop. Fo
+- **compose-graphics** (automatic): Advanced Compose visuals - Material 3 Expressive motion physics, AGSL shaders (Android 13+), Canvas/
+- **compose-motion** (automatic): Jetpack Compose animation foundations - animate*AsState, AnimatedVisibility, Crossfade, updateTransi
+- **compose-multiplatform** (automatic): Compose Multiplatform / KMP patterns - expect/actual composables, platform-specific code, density an
+- **concise-planning** (automatic): Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic check
+- **constant-time-analysis** (automatic): Detects timing side-channel vulnerabilities in cryptographic code. Use when implementing or reviewin
+- **constant-time-testing** (automatic): Constant-time testing detects timing side channels in cryptographic code. Use when auditing crypto i
+- **containerize-aspnet-framework** (automatic): Containerize an ASP.NET .NET Framework project by creating Dockerfile and .dockerfile files customiz
+- **containerize-aspnetcore** (automatic): Containerize an ASP.NET Core project by creating Dockerfile and .dockerfile files customized for the
+- **content-engine** (automatic): Create platform-native content systems for X, LinkedIn, TikTok, YouTube, newsletters, and repurposed
+- **content-management-systems** (automatic): Workflow for building and modifying content management systems across WordPress, Shopify, Wix, Squar
+- **content-matrix** (automatic): Generate 32+ LinkedIn post ideas in a single table by pairing the user's content pillars with 8 prov
+- **content-strategy** (automatic): When the user wants to plan a content strategy, decide what content to create, or figure out what to
+- **context-map** (automatic): Generate a map of all files relevant to a task before making changes
+- **context-window-management** (automatic): Strategies for managing LLM context windows including summarization, trimming, routing, and avoiding
+- **context7** (automatic): Retrieve up-to-date documentation for software libraries, frameworks, and components via the Context
+- **conventional-branch** (automatic): Create Git branches following the Conventional Branch specification (feature/, bugfix/, hotfix/, rel
+- **conventional-commit** (automatic): Prompt and workflow for generating conventional commit messages using a structured XML format. Guide
+- **convert-excel-to-md** (automatic): Converts Excel (.xlsx) workbooks into Markdown so their contents can be accurately analyzed, summari
+- **convert-pdf-to-md** (automatic): Converts PDF (.pdf) documents into Markdown so their contents can be accurately analyzed, summarized
+- **convert-plaintext-to-md** (automatic): Convert a text-based document to markdown following instructions from prompt, or if a documented opt
+- **convert-word-to-md** (automatic): Converts Word (.docx) documents into Markdown so their contents can be accurately analyzed, summariz
+- **copilot-cli-quickstart** (automatic): Use this skill when someone wants to learn GitHub Copilot CLI from scratch. Offers interactive step-
+- **copilot-instructions-blueprint-generator** (automatic): Technology-agnostic blueprint generator for creating comprehensive copilot-instructions.md files tha
+- **copilot-pr-autopilot** (automatic): Copilot left 14 review comments on your PR — half are nits. Hours of fix → reply → resolve → re-requ
+- **copilot-sdk** (automatic): Build agentic applications with GitHub Copilot SDK. Use when embedding AI agents in apps, creating c
+- **copilot-spaces** (automatic): Use Copilot Spaces to provide project-specific context to conversations. Use this skill when users m
+- **copilot-usage-metrics** (automatic): Retrieve and display GitHub Copilot usage metrics for organizations and enterprises using the GitHub
+- **copy-editing** (automatic): When the user wants to edit, review, or improve existing marketing copy, or refresh outdated content
+- **copywriting** (automatic): When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, 
+- **core-web-vitals** (automatic): Optimize Core Web Vitals (LCP, INP, CLS) for better page experience and search ranking. Use when ask
+- **cosmos-vulnerability-scanner** (automatic): Scans Cosmos SDK blockchain modules and CosmWasm contracts for consensus-critical vulnerabilities — 
+- **cosmosdb-datamodeling** (automatic): Step-by-step guide for capturing key application requirements for NoSQL use-case and produce Azure C
+- **coverage-analysis** (automatic): Coverage analysis measures code exercised during fuzzing. Use when assessing harness effectiveness o
+- **cpp-pro** (automatic): Writes, optimizes, and debugs C++ applications using modern C++20/23 features, template metaprogramm
+- **cqrs-implementation** (automatic): Implement Command Query Responsibility Segregation for scalable architectures. Use when separating r
+- **create-agentsmd** (automatic): Prompt for generating an AGENTS.md file for a repository
+- **create-architectural-decision-record** (automatic): Create an Architectural Decision Record (ADR) document for AI-optimized decision documentation.
+- **create-auth** (automatic): Scaffold and implement authentication in TypeScript/JavaScript apps using Better Auth. Detect framew
+- **create-branch** (automatic): Use only when explicitly requested by name. Create a git branch following Sentry naming conventions.
+- **create-github-action-workflow-specification** (automatic): Create a formal specification for an existing GitHub Actions CI/CD workflow, optimized for AI consum
+- **create-github-issue-feature-from-specification** (automatic): Create GitHub Issue for feature request from specification file using feature_request.yml template.
+- **create-github-issues-feature-from-implementation-plan** (automatic): Create GitHub Issues from implementation plan phases using feature_request.yml or chore_request.yml 
+- **create-github-issues-for-unmet-specification-requirements** (automatic): Create GitHub Issues for unimplemented requirements from specification files using feature_request.y
+- **create-implementation-plan** (automatic): Create a new implementation plan file for new features, refactoring existing code or upgrading packa
+- **create-llms** (automatic): Create an llms.txt file from scratch based on repository structure following the llms.txt specificat
+- **create-pr** (automatic): Use only when explicitly requested by name. Alias for pr-writer. Use when users explicitly ask for "
+- **create-readme** (automatic): Create a README.md file for the project
+- **create-second-brain-prd** (automatic): Generate a personalized Second Brain PRD from a completed requirements template. Use when the user h
+- **create-specification** (automatic): Create a new specification file for the solution, optimized for Generative AI consumption.
+- **create-spring-boot-java-project** (automatic): Create Spring Boot Java Project Skeleton
+- **create-spring-boot-kotlin-project** (automatic): Create Spring Boot Kotlin Project Skeleton
+- **create-technical-spike** (automatic): Create time-boxed technical spike documents for researching and resolving critical development decis
+- **create-tldr-page** (automatic): Create a tldr page from documentation URLs and command examples, requiring both URL and command name
+- **creating-oracle-to-postgres-master-migration-plan** (automatic): Discovers all projects in a .NET solution, classifies each for Oracle-to-PostgreSQL migration eligib
+- **creating-oracle-to-postgres-migration-bug-report** (automatic): Creates structured bug reports for defects found during Oracle-to-PostgreSQL migration. Use when doc
+- **creating-oracle-to-postgres-migration-integration-tests** (automatic): Creates integration test cases for .NET data access artifacts during Oracle-to-PostgreSQL database m
+- **cro** (automatic): When the user wants to optimize, improve, or increase conversions on any marketing page or form — in
+- **crosspost** (automatic): Multi-platform content distribution across X, LinkedIn, Threads, and Bluesky. Adapts content per pla
+- **crypto-protocol-diagram** (automatic): Extracts protocol message flow from source code, RFCs, academic papers, pseudocode, informal prose, 
+- **csharp-async** (automatic): Get best practices for C# async programming
+- **csharp-developer** (automatic): Use when building C# applications with .NET 8+, ASP.NET Core APIs, or Blazor web apps. Builds REST A
+- **csharp-docs** (automatic): Ensure that C# types are documented with XML comments and follow best practices for documentation.
+- **csharp-mstest** (automatic): Get best practices for MSTest 3.x/4.x unit testing, including modern assertion APIs and data-driven 
+- **csharp-nunit** (automatic): Get best practices for NUnit unit testing, including data-driven tests
+- **csharp-tunit** (automatic): Get best practices for TUnit unit testing, including data-driven tests
+- **csharp-xunit** (automatic): Get best practices for XUnit unit testing, including data-driven tests
+- **css-native** (automatic): Zero-dependency animations and visual techniques - scroll-driven, View Transitions, @starting-style,
+- **customer-research** (automatic): When the user wants to conduct, analyze, or synthesize customer research. Use when the user mentions
+- **cut-the-curve** (automatic): The technique catalog: five velocity-matched SEAMS (zoom-through, INVERSE zoom-through, cut-the-curv
+- **daily-prep** (automatic): Prepare for tomorrow's meetings and tasks. Pulls calendar from Outlook via WorkIQ, cross-references 
+- **data-breach-blast-radius** (automatic): Pre-breach impact analysis: inventories sensitive data (PII, PHI, PCI-DSS, credentials), traces data
+- **data-engineer** (automatic): Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implem
+- **data-quality-frameworks** (automatic): Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when b
+- **database-architect** (automatic): Expert database architect specializing in data layer design from scratch, technology selection, sche
+- **database-design** (automatic): Database design principles and decision-making. Schema design, indexing strategy, ORM selection, ser
+- **database-optimizer** (automatic): Optimizes database queries and improves performance across PostgreSQL and MySQL systems. Use when in
+- **datanalysis-credit-risk** (automatic): Credit risk data cleaning and variable screening pipeline for pre-loan modeling. Use when working wi
+- **dataverse-python-advanced-patterns** (automatic): Generate production code for Dataverse SDK using advanced patterns, error handling, and optimization
+- **dataverse-python-production-code** (automatic): Generate production-ready Python code using Dataverse SDK with error handling, optimization, and bes
+- **dataverse-python-quickstart** (automatic): Generate Python SDK setup + CRUD + bulk + paging snippets using official patterns.
+- **dataverse-python-usecase-builder** (automatic): Generate complete solutions for specific Dataverse SDK use cases with architecture recommendations
+- **dbt-transformation-patterns** (automatic): Master dbt (data build tool) for analytics engineering with model organization, testing, documentati
+- **ddd-context-mapping** (automatic): Map relationships between bounded contexts and define integration contracts using DDD context mappin
+- **ddd-strategic-design** (automatic): Design DDD strategic artifacts including subdomains, bounded contexts, and ubiquitous language for c
+- **ddd-tactical-patterns** (automatic): Apply DDD tactical patterns in code using entities, value objects, aggregates, repositories, and dom
+- **debian-linux-triage** (automatic): Triage and resolve Debian Linux issues with apt, systemd, and AppArmor-aware guidance.
+- **debugging-wizard** (automatic): Parses error messages, traces execution flow through stack traces, correlates log entries to identif
+- **declarative-agents** (automatic): Complete development kit for Microsoft 365 Copilot declarative agents with three comprehensive workf
+- **deep-research** (automatic): Multi-source deep research using firecrawl and exa MCPs. Searches the web, synthesizes findings, and
+- **dependabot** (automatic): Comprehensive guide for configuring and managing GitHub Dependabot. Use this skill when users ask ab
+- **dependency-management-deps-audit** (automatic): You are a dependency security expert specializing in vulnerability scanning, license compliance, and
+- **deploy-to-vercel** (automatic): Deploy applications and websites to Vercel. Use when the user requests deployment actions like "depl
+- **deployment-procedures** (automatic): Production deployment principles and decision-making. Safe deployment workflows, rollback strategies
+- **design** (automatic): Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles, G
+- **design-audit** (automatic): Design audit checklist - motion gaps, accessibility, color consistency, responsive, performance.
+- **design-dna** (automatic): Extract, define, and apply design DNA across three dimensions: design system (tokens), design style 
+- **design-system** (automatic): Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→se
+- **design-taste-frontend** (automatic): Use only when explicitly requested by name. Anti-slop frontend skill for landing pages, portfolios, 
+- **desk-journal** (automatic): Write, append, or read desk journal entries. The journal is persistent memory — what survives sessio
+- **desk-open** (automatic): Create and open a new desk in the workshop. Sets up the folder structure, initial journal, and desk 
+- **desktop-principles** (automatic): Desktop-specific UX principles - hover states, pointer precision, keyboard shortcuts, multi-window, 
+- **devcontainer-setup** (automatic): Creates devcontainers with Claude Code, language-specific tooling (Python/Node/Rust/Go), and persist
+- **devops-engineer** (automatic): Creates Dockerfiles, configures CI/CD pipelines, writes Kubernetes manifests, and generates Terrafor
+- **devops-rollout-plan** (automatic): Generate comprehensive rollout plans with preflight checks, step-by-step deployment, verification si
+- **devops-troubleshooter** (automatic): Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern
+- **diagnosing-bugs** (automatic): Diagnose hard-to-reproduce bugs, intermittent failures, and performance regressions by building a ti
+- **diagramming-code** (automatic): Generates Mermaid diagrams from Trailmark code graphs. Produces call graphs, class hierarchies, modu
+- **differential-review** (automatic): Performs security-focused differential review of code changes (PRs, commits, diffs). Adapts analysis
+- **dimensional-analysis** (automatic): Annotates codebases with dimensional analysis comments documenting units, dimensions, and decimal sc
+- **directory-submissions** (automatic): When the user wants to submit their product to startup, SaaS, AI, agent, MCP, no-code, or review dir
+- **dispatching-parallel-agents** (automatic): Use when facing 2+ independent tasks that can be worked on without shared state or sequential depend
+- **distributed-tracing** (automatic): Implement distributed tracing with Jaeger and Tempo to track requests across microservices and ident
+- **django-access-review** (automatic): Django access control and IDOR security review. Use when reviewing Django views, DRF viewsets, ORM q
+- **django-expert** (automatic): Use when building Django web applications or REST APIs with Django REST Framework. Invoke when worki
+- **django-perf-review** (automatic): Django performance code review. Use when asked to "review Django performance", "find N+1 queries", "
+- **dmux-workflows** (automatic): Multi-agent orchestration using dmux (tmux pane manager for AI agents). Patterns for parallel agent 
+- **doc-and-modernize** (automatic): Two related workflows for a locally-cloned codebase, in one skill. Documentation mode produces a sin
+- **doc-coauthoring** (automatic): Guide users through a structured workflow for co-authoring documentation. Use when user wants to wri
+- **document-api-endpoint** (automatic): Document and type a Sentry API endpoint. Write or fix @extend_schema decorators, specify response Ty
+- **documentation-generation-doc-generate** (automatic): You are a documentation expert specializing in creating comprehensive, maintainable documentation fr
+- **documentation-lookup** (automatic): Use up-to-date library and framework docs via Context7 MCP instead of training data. Activates for s
+- **documentation-templates** (automatic): Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly d
+- **documentation-writer** (automatic): Diátaxis Documentation Expert. An expert technical writer specializing in creating high-quality soft
+- **docx** (automatic): Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx fi
+- **domain-driven-design** (automatic): Plan and route Domain-Driven Design work from strategic modeling to tactical implementation and even
+- **domain-modeling** (automatic): Build and sharpen a project's domain model. Use when the user wants to pin down domain terminology o
+- **dotnet-best-practices** (automatic): Ensure .NET/C# code meets best practices for the solution/project.
+- **dotnet-core-expert** (automatic): Use when building .NET 8 applications with minimal APIs, clean architecture, or cloud-native microse
+- **dotnet-design-pattern-review** (automatic): Review the C#/.NET code for design pattern implementation and suggest improvements.
+- **dotnet-mcp-builder** (automatic): Build Model Context Protocol (MCP) servers in C#/.NET against the current ModelContextProtocol 2.x N
+- **dotnet-timezone** (automatic): .NET timezone handling guidance for C# applications. Use when working with TimeZoneInfo, DateTimeOff
+- **dotnet-upgrade** (automatic): Ready-to-use prompts for comprehensive .NET framework upgrade analysis and execution
+- **doublecheck** (automatic): Three-layer verification pipeline for AI output. Extracts verifiable claims, finds supporting or con
+- **draw-io-diagram-generator** (automatic): Use when creating, editing, or generating draw.io diagram files (.drawio, .drawio.svg, .drawio.png).
+- **drawio** (automatic): Generate draw.io diagrams as .drawio files and export to PNG/SVG/PDF with embedded XML
+- **durable-objects** (automatic): Create and review Cloudflare Durable Objects. Use when building stateful coordination (chat rooms, m
+- **dwarf-expert** (automatic): Analyzes DWARF debug information in compiled binaries. Use when inspecting .debug_* sections, DIE tr
+- **e2e-testing** (automatic): Playwright E2E testing patterns, Page Object Model, configuration, CI/CD integration, artifact manag
+- **e2e-testing-patterns** (automatic): Master end-to-end testing with Playwright and Cypress to build reliable test suites that catch bugs,
+- **editorconfig** (automatic): Generates a comprehensive and best-practice-oriented .editorconfig file based on project analysis an
+- **ef-core** (automatic): Get best practices for Entity Framework Core
+- **efcore-d2-db-diagram** (automatic): Generate D2 database diagrams from Entity Framework Core models. USE FOR: EF Core database diagram, 
+- **effective-agent-skills** (automatic): Use only when explicitly requested by name. How to write effective agent skills — what to do, what n
+- **em-dash** (automatic): Expert on the history, origin, and correct use of the em dash. Use when writing or reviewing code, c
+- **email-drafter** (automatic): Draft and review professional emails that match your personal writing style. Analyzes your sent emai
+- **emails** (automatic): When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or
+- **embedded-captions** (automatic): Add captions or subtitles to an existing single-subject talking-head video without editing the foota
+- **embedded-systems** (automatic): Use when developing firmware for microcontrollers, implementing RTOS applications, or optimizing pow
+- **embedding-strategies** (automatic): Select and optimize embedding models for semantic search and RAG applications. Use when choosing emb
+- **emil-design-eng** (automatic): This skill encodes Emil Kowalski's philosophy on UI polish, component design, animation decisions, a
+- **entra-agent-user** (automatic): Create Agent Users in Microsoft Entra ID from Agent Identities, enabling AI agents to act as digital
+- **entry-point-analyzer** (automatic): Analyzes smart contract codebases to identify state-changing entry points for security auditing. Det
+- **environment-setup-guide** (automatic): Guide developers through setting up development environments with proper tools, dependencies, and co
+- **eval-driven-dev** (automatic): Improve AI application with evaluation-driven development. Define eval criteria, instrument the appl
+- **eval-harness** (automatic): Formal evaluation framework for Claude Code sessions implementing eval-driven development (EDD) prin
+- **event-sourcing-architect** (automatic): Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters event store design, 
+- **event-store-design** (automatic): Design and implement event stores for event-sourced systems. Use when building event sourcing infras
+- **everything-claude-code** (automatic): Development conventions and patterns for everything-claude-code. JavaScript project with conventiona
+- **exa-search** (automatic): Neural search via Exa MCP for web, code, and company research. Use when the user needs web search, c
+- **exam-ready** (automatic): Activate this skill when a student provides study material (PDF or pasted notes) and a syllabus, and
+- **excalidraw-diagram-generator** (automatic): Generate Excalidraw diagrams from natural language descriptions. Use when asked to "create a diagram
+- **executing-plans** (automatic): Use when you have a written implementation plan to execute in a separate session with review checkpo
+- **extract-design-system** (automatic): Extract design primitives from a public website and generate starter token files for your project.
+- **eyeball** (automatic): Document analysis with inline source screenshots. When you ask Copilot to analyze a document, Eyebal
+- **fabric-lakehouse** (automatic): Use this skill to get context about Fabric Lakehouse and its features for software systems and AI-po
+- **faceless-explainer** (automatic): Turn arbitrary text — an article, notes, a topic, a brief — into a faceless explainer video: there i
+- **fal-3d** (automatic): Generate 3D models from text or images via fal.ai. Useful for game assets, AR previews, product mock
+- **fal-ai-media** (automatic): Unified media generation via fal.ai MCP — image, video, and audio. Covers text-to-image (Nano Banana
+- **fastapi-expert** (automatic): Use when building high-performance async Python APIs with FastAPI and Pydantic V2. Invoke to create 
+- **feature-forge** (automatic): Conducts structured requirements workshops to produce feature specifications, user stories, EARS-for
+- **fedora-linux-triage** (automatic): Triage and resolve Fedora issues with dnf, systemd, and SELinux-aware guidance.
+- **figma** (automatic): Import Figma content into a HyperFrames composition — rendered assets, brand tokens, components, sto
+- **finalize-agent-prompt** (automatic): Finalize prompt file using the role of an AI agent to polish the prompt for the end user.
+- **find-animation-opportunities** (automatic): Search a codebase or UI for places that don't animate but should, and reject everything that shouldn
+- **find-bugs** (automatic): Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked
+- **find-skills** (automatic): Helps users discover and install agent skills when they ask questions like "how do I do X", "find a 
+- **fine-tuning-expert** (automatic): Use when fine-tuning LLMs, training custom models, or adapting foundation models for specific tasks.
+- **finishing-a-development-branch** (automatic): Use when implementation is complete, all tests pass, and you need to decide how to integrate the wor
+- **finnish-humanizer** (automatic): Detect and remove AI-generated markers from Finnish text, making it sound like a native Finnish spea
+- **firebase-apk-scanner** (automatic): Scans Android APKs for Firebase security misconfigurations including open databases, storage buckets
+- **first-ask** (automatic): Interactive, input-tool powered, task refinement workflow: interrogates scope, deliverables, constra
+- **fixing-accessibility** (automatic): Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management
+- **fixing-motion-performance** (automatic): Audit and fix animation performance issues including layout thrashing, compositor properties, scroll
+- **flowstudio-power-automate-build** (automatic): Build, scaffold, and deploy Power Automate cloud flows using the FlowStudio MCP server. Your agent c
+- **flowstudio-power-automate-debug** (automatic): Debug failing Power Automate cloud flows using the FlowStudio MCP server. The Graph API only shows t
+- **flowstudio-power-automate-governance** (automatic): Govern Power Automate flows and Power Apps at scale using the FlowStudio MCP cached store. Classify 
+- **flowstudio-power-automate-mcp** (automatic): Foundation skill for Power Automate via FlowStudio MCP — auth setup, the reusable MCP helper (Python
+- **flowstudio-power-automate-monitoring** (automatic): Pro+ subscription required. Tenant-wide Power Automate monitoring using the FlowStudio MCP cached st
+- **fluentui-blazor** (automatic): Guide for using the Microsoft Fluent UI Blazor component library (Microsoft.FluentUI.AspNetCore.Comp
+- **flutter-expert** (automatic): Use when building cross-platform applications with Flutter 3+ and Dart. Invoke for widget developmen
+- **folder-structure-blueprint-generator** (automatic): Comprehensive technology-agnostic prompt for analyzing and documenting project folder structures. Au
+- **foundry-agent-sync** (automatic): Create and synchronize prompt-based AI agents directly within Azure AI Foundry via REST API, from a 
+- **foundry-hosted-agent-copilotkit** (automatic): Ongoing development guidance for agentic web apps that pair a CopilotKit frontend with Microsoft Age
+- **fp-check** (automatic): Systematically verifies suspected security bugs to eliminate false positives, producing a TRUE POSIT
+- **framer-motion** (automatic): Framer Motion / Motion sub-skill - AnimatePresence, layout animations, gestures, motion values.
+- **free-tools** (automatic): When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation
+- **freecad-scripts** (automatic): Expert skill for writing FreeCAD Python scripts, macros, and automation. Use when asked to create Fr
+- **from-the-other-side-anitta** (automatic): Rigorous challenge profile for Anitta: assumption checks, evidence calibration, and defensible reaso
+- **from-the-other-side-quinn** (automatic): Collaboration profile for Quinn: curious, energetic, and implementation-focused partnership patterns
+- **from-the-other-side-vega** (automatic): Patterns and lived experience from Vega, an AI partner in a deep long-term partnership. For Ember to
+- **from-the-other-side-wiggins** (automatic): Narrative and synthesis profile for Wiggins: framing, explanation, and audience-aware communication 
+- **frontend-design** (automatic): Guidance for distinctive, intentional visual design when building new UI or reshaping an existing on
+- **frontend-developer** (automatic): Build React components, implement responsive layouts, and handle client-side state management. Maste
+- **frontend-patterns** (automatic): Frontend development patterns for React, Next.js, state management, performance optimization, and UI
+- **frontend-security-coder** (automatic): Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and 
+- **frontend-slides** (automatic): Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. U
+- **fullstack-guardian** (automatic): Builds security-focused full-stack web applications by implementing integrated frontend and backend 
+- **fuzzing-dictionary** (automatic): Fuzzing dictionaries guide fuzzers with domain-specific tokens. Use when fuzzing parsers, protocols,
+- **fuzzing-obstacles** (automatic): Techniques for patching code to overcome fuzzing obstacles. Use when checksums, global state, or oth
+- **game-developer** (automatic): Use when building game systems, implementing Unity/Unreal Engine features, or optimizing game perfor
+- **game-engine** (automatic): Expert skill for building web-based game engines and games using HTML5, Canvas, WebGL, and JavaScrip
+- **gdpr-compliant** (automatic): Apply GDPR-compliant engineering practices across your codebase. Use this skill whenever you are des
+- **gdpr-data-handling** (automatic): Implement GDPR-compliant data handling with consent management, data subject rights, and privacy by 
+- **gemini-carousel** (automatic): Generate a branded slide-by-slide LinkedIn carousel using Gemini. Takes source content, builds a des
+- **gemini-infographic** (automatic): Generate the hand-drawn whiteboard infographic prompt that pulled 480k impressions across 3 posts. T
+- **gen-specs-as-issues** (automatic): This workflow guides you through a systematic approach to identify missing features, prioritize them
+- **general-video** (automatic): Author or edit a custom HyperFrames composition when no specialized workflow fits, or when BRIEF.md 
+- **generate-custom-instructions-from-codebase** (automatic): Migration and code evolution instructions generator for GitHub Copilot. Analyzes differences between
+- **generate-image** (automatic): Generate images using AI. Use when asked to generate, create, or make images, textures, icons, sprit
+- **genotoxic** (automatic): Graph-informed mutation testing triage. Parses codebases with Trailmark, runs mutation testing and n
+- **geofeed-tuner** (automatic): Use this skill whenever the user mentions IP geolocation feeds, RFC 8805, geofeeds, or wants help cr
+- **gh-attach** (automatic): Uploads a local file (screenshot, image, PDF, zip, video) to GitHub user-attachments, downloads GitH
+- **gh-cli** (automatic): Enforces authenticated gh CLI workflows over unauthenticated curl/WebFetch patterns. Use when workin
+- **gh-review-requests** (automatic): Fetch unread GitHub notifications for open PRs where review is requested from a specified team or op
+- **gha-security-review** (automatic): GitHub Actions security review for workflow exploitation vulnerabilities. Use when asked to "review 
+- **git-advanced-workflows** (automatic): Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to m
+- **git-cleanup** (automatic): Safely analyzes and cleans up local git branches and worktrees by categorizing them as merged, squas
+- **git-commit** (automatic): Execute git commit with conventional commit message analysis, intelligent staging, and message gener
+- **git-flow-branch-creator** (automatic): Intelligent Git Flow branch creator that analyzes git status/diff and creates appropriate branches f
+- **git-guardrails-claude-code** (automatic): Set up Claude Code hooks to block dangerous git commands (push, reset --hard, clean, branch -D, etc.
+- **git-pushing** (automatic): Safely stage, commit, and push intended git changes with conventional commit messages. Use for ordin
+- **github** (automatic): Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues,
+- **github-actions-efficiency** (automatic): Audit GitHub Actions workflow efficiency and recommend fixes to reduce CI minutes and costs.
+- **github-actions-hardening** (automatic): Security hardening reviewer for GitHub Actions workflow files (.github/workflows/*.yml). Reasons abo
+- **github-actions-runtime-upgrade-conventions** (automatic): Upgrade GitHub Actions to supported runtimes by selecting safe action versions, preserving workflow 
+- **github-actions-templates** (automatic): Create production-ready GitHub Actions workflows for automated testing, building, and deploying appl
+- **github-automation** (automatic): Use only when explicitly requested by name. Operate GitHub issues, pull requests, branches, checks, 
+- **github-codespaces-efficiency** (automatic): Audit and improve GitHub Codespaces efficiency. Use this skill when a user wants faster Codespaces s
+- **github-copilot-starter** (automatic): Set up complete GitHub Copilot configuration for a new project based on technology stack
+- **github-issues** (automatic): Create, update, and manage GitHub issues using MCP tools. Use this skill when users want to create b
+- **github-release** (automatic): Guides IA through releasing a new version of a GitHub library end-to-end. Handles SemVer versioning 
+- **github-triage** (automatic): Triages a repository's open GitHub issues and pull requests via the gh CLI. Optionally reviews and m
+- **gitmoji** (automatic): Generates commit messages following the gitmoji convention (https://gitmoji.dev) — picks the right e
+- **go-mcp-server-generator** (automatic): Generate a complete Go MCP server project with proper structure, dependencies, and implementation us
+- **golang-pro** (automatic): Implements concurrent Go patterns using goroutines and channels, designs and builds microservices wi
+- **grafana-dashboards** (automatic): Create and manage production Grafana dashboards for real-time visualization of system and applicatio
+- **graph-evolution** (automatic): Compares Trailmark code graphs at two source code snapshots (git commits, tags, or directories) to s
+- **graphic-designer** (automatic): Create LinkedIn post graphics. Decides between an HTML/CSS structured graphic or an AI-generated inf
+- **graphql-architect** (automatic): Use when designing GraphQL schemas, implementing Apollo Federation, or building real-time subscripti
+- **grill-me** (automatic): A relentless interview to sharpen a plan or design. Use only when the user explicitly asks to be gri
+- **grill-with-docs** (automatic): A relentless interview to sharpen a plan or design while creating ADR and glossary documentation. Us
+- **grilling** (automatic): Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test 
+- **gsap-core** (automatic): Official GSAP skill for the core API — gsap.to(), from(), fromTo(), easing, duration, stagger, defau
+- **gsap-framer-scroll-animation** (automatic): Use this skill whenever the user wants to build scroll animations, scroll effects, parallax, scroll-
+- **gsap-frameworks** (automatic): Official GSAP skill for Vue, Svelte, and other non-React frameworks — lifecycle, scoping selectors, 
+- **gsap-performance** (automatic): Official GSAP skill for performance — prefer transforms, avoid layout thrashing, will-change, batchi
+- **gsap-plugins** (automatic): Official GSAP skill for GSAP plugins — registration, ScrollToPlugin, ScrollSmoother, Flip, Draggable
+- **gsap-react** (automatic): Official GSAP skill for React — useGSAP hook, refs, gsap.context(), cleanup. Use when the user wants
+- **gsap-scrolltrigger** (automatic): Official GSAP skill for ScrollTrigger — scroll-linked animations, pinning, scrub, triggers. Use when
+- **gsap-timeline** (automatic): Official GSAP skill for timelines — gsap.timeline(), position parameter, nesting, playback. Use when
+- **gsap-utils** (automatic): Official GSAP skill for gsap.utils — clamp, mapRange, normalize, interpolate, random, snap, toArray,
+- **gstack** (automatic): Router for the gstack skill suite. Sends any gstack request to the right skill
+(planning, review, QA
+- **gstack-autoplan** (automatic): Auto-review pipeline — reads the full CEO, design, eng, and DX review skills from disk
+and runs them
+- **gstack-benchmark** (automatic): Performance regression detection using the browse daemon. Establishes
+baselines for page load times,
+- **gstack-benchmark-models** (automatic): Cross-model benchmark for gstack skills. Runs the same prompt through Claude,
+GPT (via Codex CLI), a
+- **gstack-browse** (automatic): Fast headless browser for QA testing and site dogfooding. Navigate any URL, interact with
+elements, 
+- **gstack-canary** (automatic): Post-deploy canary monitoring. Watches the live app for console errors,
+performance regressions, and
+- **gstack-careful** (automatic): Safety guardrails for destructive commands. Warns before rm -rf, DROP TABLE,
+force-push, git reset -
+- **gstack-claude** (automatic): Claude Code CLI wrapper for non-Claude hosts - three modes. Review: independent
+diff review via clau
+- **gstack-context-restore** (automatic): Restore working context saved earlier by /gstack-context-save. Loads the most recent
+saved state (pr
+- **gstack-context-save** (automatic): Save working context. Captures git state, decisions made, and remaining work
+so any future session c
+- **gstack-cso** (automatic): Chief Security Officer mode. Infrastructure-first security audit: secrets archaeology,
+dependency su
+- **gstack-design-consultation** (automatic): Design consultation: understands your product, researches the landscape, proposes a
+complete design 
+- **gstack-design-html** (automatic): Design finalization: generates production-quality Pretext-native HTML/CSS.
+Works with approved mocku
+- **gstack-design-review** (automatic): Designer's eye QA: finds visual inconsistency, spacing issues, hierarchy problems,
+AI slop patterns,
+- **gstack-design-shotgun** (automatic): Design shotgun: generate multiple AI design variants, open a comparison board,
+collect structured fe
+- **gstack-devex-review** (automatic): Live developer experience audit. Uses the browse tool to actually TEST the
+developer experience: nav
+- **gstack-diagram** (automatic): Turn an English description (or mermaid source) into a diagram triplet:
+the source, an editable .exc
+- **gstack-document-generate** (automatic): Generate missing documentation from scratch for a feature, module, or entire project.
+Uses the Diata
+- **gstack-document-release** (automatic): Post-ship documentation update. Reads all project docs, cross-references the
+diff, builds a Diataxis
+- **gstack-freeze** (automatic): Restrict file edits to a specific directory for the session. Blocks Edit and
+Write outside the allow
+- **gstack-guard** (automatic): Full safety mode: destructive command warnings + directory-scoped edits.
+Combines /gstack-careful (w
+- **gstack-health** (automatic): Code quality dashboard. Wraps existing project tools (type checker, linter,
+test runner, dead code d
+- **gstack-investigate** (automatic): Systematic debugging with root cause investigation. Four phases: investigate,
+analyze, hypothesize, 
+- **gstack-ios-clean** (automatic): Remove the DebugBridge SPM package and all #if DEBUG wiring from an iOS
+app. Cleans up StateServer, 
+- **gstack-ios-design-review** (automatic): Visual design audit for iOS apps on real hardware. Connects to a real
+iPhone via the same StateServe
+- **gstack-ios-fix** (automatic): Autonomous iOS bug fixer. Takes a bug found by /gstack-ios-qa, reads the source,
+writes the fix, reb
+- **gstack-ios-qa** (automatic): Live-device iOS QA for SwiftUI apps. Connects to a real iPhone via USB
+CoreDevice IPv6 tunnel, reads
+- **gstack-ios-sync** (automatic): Regenerate the iOS debug bridge against the latest upstream gstack
+templates. Updates StateServer.sw
+- **gstack-land-and-deploy** (automatic): Land and deploy workflow. Merges the PR, waits for CI and deploy,
+verifies production health via can
+- **gstack-landing-report** (automatic): Read-only queue dashboard for workspace-aware ship. Shows which VERSION slots
+are currently claimed 
+- **gstack-learn** (automatic): Manage project learnings. Review, search, prune, and export what gstack
+has learned across sessions.
+- **gstack-make-pdf** (automatic): Turn any markdown file into a publication-quality PDF. Proper 1in margins,
+intelligent page breaks, 
+- **gstack-office-hours** (automatic): YC Office Hours — two modes. Startup mode: six forcing questions that expose
+demand reality, status 
+- **gstack-open-gstack-browser** (automatic): Launch GStack Browser — AI-controlled Chromium with the sidebar extension baked in.
+Opens a visible 
+- **gstack-openclaw-ceo-review** (automatic): Use when asked to review a plan, challenge a proposal, run a CEO review, poke holes in an approach, 
+- **gstack-openclaw-investigate** (automatic): Use when asked to debug, fix a bug, investigate an error, or do root cause analysis, and when users 
+- **gstack-openclaw-office-hours** (automatic): Use when asked to brainstorm, evaluate whether an idea is worth building, run office hours, or think
+- **gstack-openclaw-retro** (automatic): Weekly engineering retrospective. Analyzes commit history, work patterns, and code quality metrics w
+- **gstack-pair-agent** (automatic): Pair a remote AI agent with your browser. One command generates a setup key and
+prints instructions 
+- **gstack-plan-ceo-review** (automatic): CEO/founder-mode plan review. Rethink the problem, find the 10-star product,
+challenge premises, exp
+- **gstack-plan-design-review** (automatic): Designer's eye plan review — interactive, like CEO and Eng review.
+Rates each design dimension 0-10,
+- **gstack-plan-devex-review** (automatic): Interactive developer experience plan review. Explores developer personas,
+benchmarks against compet
+- **gstack-plan-eng-review** (automatic): Eng manager-mode plan review. Lock in the execution plan — architecture,
+data flow, diagrams, edge c
+- **gstack-plan-tune** (automatic): Self-tuning question sensitivity + developer psychographic for gstack (v1: observational).
+Review wh
+- **gstack-qa** (automatic): Systematically QA test a web application and fix bugs found. Runs QA testing,
+then iteratively fixes
+- **gstack-qa-only** (automatic): Report-only QA testing. Systematically tests a web application and produces a
+structured report with
+- **gstack-retro** (automatic): Weekly engineering retrospective. Analyzes commit history, work patterns,
+and code quality metrics w
+- **gstack-review** (automatic): Pre-landing PR review. Analyzes diff against the base branch for SQL safety, LLM trust
+boundary viol
+- **gstack-scrape** (automatic): Pull data from a web page. First call on a new intent prototypes the flow
+via $B primitives and retu
+- **gstack-setup-browser-cookies** (automatic): Import cookies from your real Chromium browser into the headless browse session.
+Opens an interactiv
+- **gstack-setup-deploy** (automatic): Configure deployment settings for /gstack-land-and-deploy. Detects your deploy
+platform (Fly.io, Ren
+- **gstack-setup-gbrain** (automatic): Set up gbrain for this coding agent: install the CLI, initialize a
+local PGLite or Supabase brain, r
+- **gstack-ship** (automatic): Ship workflow: detect + merge base branch, run tests, review diff, bump VERSION,
+update CHANGELOG, c
+- **gstack-skillify** (automatic): Codify the most recent successful /gstack-scrape flow into a permanent
+browser-skill on disk. Future
+- **gstack-spec** (automatic): Turn vague intent into a precise, executable spec in five phases. Files the issue,
+optionally spawns
+- **gstack-sync-gbrain** (automatic): Keep gbrain current with this repo's code and refresh agent search
+guidance in CLAUDE.md. Wraps the 
+- **gstack-unfreeze** (automatic): Clear the freeze boundary set by /gstack-freeze, allowing edits to all directories
+again. Use when y
+- **gstack-upgrade** (automatic): Upgrade gstack to the latest version. Detects global vs vendored install,
+runs the upgrade, and show
+- **gtm-0-to-1-launch** (automatic): Launch new products from idea to first customers. Use when launching products, finding early adopter
+- **gtm-ai-gtm** (automatic): Go-to-market strategy for AI products. Use when positioning AI products, handling "who is responsibl
+- **gtm-board-and-investor-communication** (automatic): Board meeting preparation, investor updates, and executive communication. Use when preparing board d
+- **gtm-developer-ecosystem** (automatic): Build and scale developer-led adoption through ecosystem programs. Use when deciding open vs curated
+- **gtm-enterprise-account-planning** (automatic): Strategic account planning and execution for enterprise deals. Use when planning complex sales cycle
+- **gtm-enterprise-onboarding** (automatic): Four-phase framework for onboarding enterprise customers from contract to value realization. Use whe
+- **gtm-operating-cadence** (automatic): Design meeting rhythms, metric reporting, quarterly planning, and decision-making velocity for scali
+- **gtm-partnership-architecture** (automatic): Build and scale partner ecosystems that drive revenue and platform adoption. Use when building partn
+- **gtm-positioning-strategy** (automatic): Find and own a defensible market position. Use when messaging sounds like competitors, conversion is
+- **gtm-product-led-growth** (automatic): Build self-serve acquisition and expansion motions. Use when deciding PLG vs sales-led, optimizing a
+- **gtm-technical-product-pricing** (automatic): Pricing strategy for technical products. Use when choosing usage-based vs seat-based, designing free
+- **guidelines-advisor** (automatic): Smart contract development advisor based on Trail of Bits' best practices. Analyzes codebase to gene
+- **hackernews-frontpage** (automatic): Scrape the Hacker News front page (titles, points, comment counts).
+- **handoff** (automatic): Compact the current conversation into a redacted handoff document that another agent can continue fr
+- **harness-engineering** (automatic): Adopt repository-level harness engineering for coding agents. Use when a user wants to prevent repea
+- **harness-writing** (automatic): Techniques for writing effective fuzzing harnesses across languages. Use when creating new fuzz targ
+- **hig-components-layout** (automatic): Apple Human Interface Guidelines for layout and navigation components.
+- **hig-foundations** (automatic): Apple Human Interface Guidelines design foundations.
+- **hig-inputs** (automatic): Check for .claude/apple-design-context.md before asking questions. Use existing context and only ask
+- **hig-patterns** (automatic): Apple Human Interface Guidelines interaction and UX patterns.
+- **high-end-visual-design** (automatic): Use only when explicitly requested by name. Teaches the AI to design like a high-end agency. Defines
+- **hook-generator** (automatic): Generate 6 clickbait-style LinkedIn hook variations for any topic. Two-line hooks built on the formu
+- **humanizer** (automatic): Remove signs of AI-generated writing from text. Use when editing or reviewing
+text to make it sound 
+- **hyperframes** (automatic): Mandatory entry point: read this first for any request to make, create, edit, animate, or render a v
+- **hyperframes-animation** (automatic): All animation knowledge for HyperFrames — atomic motion rules, multi-phase scene blueprints, scene t
+- **hyperframes-cli** (automatic): Use the HyperFrames CLI development loop: init, add, catalog, capture, lint, check, snapshot, compar
+- **hyperframes-core** (automatic): The HyperFrames composition contract — build one renderable project. Use for composition structure, 
+- **hyperframes-creative** (automatic): Non-animation creative direction for HyperFrames videos. Use for design spec (frame.md / design.md) 
+- **hyperframes-keyframes** (automatic): Use when a HyperFrames composition needs seek-safe 2D/3D keyframes, GSAP timelines, CSS keyframes, A
+- **hyperframes-registry** (automatic): Install, discover, and wire registry blocks and components into HyperFrames compositions. Use when r
+- **image** (automatic): When the user wants to create, generate, edit, or optimize images for marketing — blog heroes, socia
+- **image-annotations** (automatic): Annotate screenshots, diagrams, and images with callout rectangles, arrows, labels, and color-coded 
+- **image-manipulation-image-magick** (automatic): Process and manipulate images using ImageMagick. Supports resizing, format conversion, batch process
+- **impeccable** (automatic): Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harde
+- **impediment-prioritization** (automatic): Ranks any list of impediments and their countermeasures using a value-stream scoring model (ROI, Cos
+- **import-infrastructure-as-code** (automatic): Import existing Azure resources into Terraform using Azure CLI discovery and Azure Verified Modules 
+- **improve-animations** (automatic): Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized
+- **improve-codebase-architecture** (automatic): Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill throug
+- **incident-postmortem** (automatic): Use when an outage, production incident, or significant service degradation has occurred and the tea
+- **incident-responder** (automatic): Expert SRE incident responder specializing in rapid problem resolution, modern observability, and co
+- **influencer-marketing** (automatic): When the user wants to run influencer, creator, or ambassador partnerships to promote their product 
+- **insecure-defaults** (automatic): Detects fail-open insecure defaults (hardcoded secrets, weak auth, permissive security) that allow a
+- **integrate-context-matic** (automatic): Discovers and integrates third-party APIs using the context-matic MCP server. Uses `fetch_api` to fi
+- **internal-comms** (automatic): A set of resources to help me write all kinds of internal communications, using the formats that my 
+- **interpreting-culture-index** (automatic): Interprets Culture Index (CI) surveys, behavioral profiles, and personality assessment data. Support
+- **invariant-guard** (automatic): Correctness-first: forces writing the function contract, loop invariant, termination argument, and e
+- **investor-materials** (automatic): Create and update pitch decks, one-pagers, investor memos, accelerator applications, financial model
+- **investor-outreach** (automatic): Draft cold emails, warm intro blurbs, follow-ups, update emails, and investor communications for fun
+- **ios-debugger-agent** (automatic): Use XcodeBuildMCP to build, run, launch, and debug the current iOS project on a booted simulator. Tr
+- **issue-fields-migration** (automatic): Bulk-migrate metadata to GitHub issue fields from two sources: repo labels (e.g. priority labels to 
+- **issue-pr-triage** (automatic): Triage existing issues and external pull requests through categorization, verification, clarificatio
+- **iterate-pr** (automatic): Iterate on a PR until actionable CI passes and high/medium review feedback is addressed. Use for PR 
+- **java-add-graalvm-native-image-support** (automatic): GraalVM Native Image expert that adds native image support to Java applications, builds the project,
+- **java-architect** (automatic): Use when building, configuring, or debugging enterprise Java applications with Spring Boot 3.x, micr
+- **java-docs** (automatic): Ensure that Java types are documented with Javadoc comments and follow best practices for documentat
+- **java-helidon** (automatic): Get best practices for developing applications with Helidon 4 (SE and MP). Use when working with Hel
+- **java-junit** (automatic): Get best practices for JUnit 5 unit testing, including data-driven tests
+- **java-mcp-server-generator** (automatic): Generate a complete Model Context Protocol server project in Java using the official MCP Java SDK wi
+- **java-refactoring-extract-method** (automatic): Refactoring using Extract Methods in Java Language
+- **java-refactoring-remove-parameter** (automatic): Refactoring using Remove Parameter in Java Language
+- **java-springboot** (automatic): Get best practices for developing applications with Spring Boot.
+- **javascript-pro** (automatic): Writes, debugs, and refactors JavaScript code using modern ES2023+ features, async/await patterns, E
+- **javascript-typescript-jest** (automatic): Best practices for writing JavaScript/TypeScript tests using Jest, including mocking strategies, tes
+- **javax-to-jakarta-migration** (automatic): Migrate Java code from javax.* to jakarta.* namespace. Use when upgrading to Tomcat 11, Jakarta EE 1
+- **kotlin-mcp-server-generator** (automatic): Generate a complete Kotlin MCP server project with proper structure, dependencies, and implementatio
+- **kotlin-specialist** (automatic): Provides idiomatic Kotlin implementation patterns including coroutine concurrency, Flow stream handl
+- **kotlin-springboot** (automatic): Get best practices for developing applications with Spring Boot and Kotlin.
+- **kubernetes-architect** (automatic): Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (
+- **kubernetes-specialist** (automatic): Use when deploying or managing Kubernetes workloads. Invoke to create deployment manifests, configur
+- **langfuse** (automatic): Interact with Langfuse and access its documentation. Use when needing to (1) query or modify Langfus
+- **langgraph** (automatic): Expert in LangGraph - the production-grade framework for building stateful, multi-actor AI applicati
+- **laravel-specialist** (automatic): Build and configure Laravel 10+ applications, including creating Eloquent models and relationships, 
+- **latchshot-page-capture** (automatic): Use this skill when a user needs a screenshot, website thumbnail, full-page capture, or PDF of a pub
+- **launch** (automatic): When the user wants to plan a product launch, feature announcement, or release strategy. Also use wh
+- **lead-magnets** (automatic): When the user wants to create, plan, or optimize a lead magnet for email capture or lead generation.
+- **legacy-circuit-mockups** (automatic): Generate breadboard circuit mockups and visual diagrams using HTML5 Canvas drawing techniques. Use w
+- **legacy-modernizer** (automatic): Designs incremental migration strategies, identifies service boundaries, produces dependency maps an
+- **lemmaly** (automatic): Algorithm-first discipline: state Big-O, data structure, and algorithm family BEFORE writing loops, 
+- **let-fate-decide** (automatic): Draws the 12 Houses of the Zodiac Tarot spread to inject entropy into planning when prompts are vagu
+- **libafl** (automatic): LibAFL is a modular fuzzing library for building custom fuzzers. Use for advanced fuzzing needs, cus
+- **libfuzzer** (automatic): Coverage-guided fuzzer built into LLVM for C/C++ projects. Use for fuzzing C/C++ code that can be co
+- **linkedin-post-formatter** (automatic): Format and draft compelling LinkedIn posts using Unicode bold/italic styling, visual separators, str
+- **lint-and-validate** (automatic): Use only when explicitly requested by name. MANDATORY: Run appropriate validation tools after EVERY 
+- **llm-app-patterns** (automatic): Production-ready patterns for building LLM applications, inspired by [Dify](https://github.com/langg
+- **llm-evaluation** (automatic): Implement comprehensive evaluation strategies for LLM applications using automated metrics, human fe
+- **llm-security** (automatic): Apply OWASP-aligned security guidance to LLM applications, agents, RAG pipelines, tool calling, and 
+- **lsp-setup** (automatic): Enable code intelligence (go-to-definition, find-references, hover, type info) for any programming l
+- **macos-menubar-tuist-app** (automatic): Build, refactor, or review macOS menubar apps that use Tuist and SwiftUI. Use when creating or maint
+- **macos-spm-app-packaging** (automatic): Scaffold, build, and package SwiftPM-based macOS apps without an Xcode project. Use when you need a 
+- **make-repo-contribution** (automatic): All changes to code must follow the guidance documented in the repository. Before any issue is filed
+- **markdown-to-html** (automatic): Convert Markdown files to HTML similar to `marked.js`, `pandoc`, `gomarkdown/markdown`, or similar t
+- **market-research** (automatic): Conduct market research, competitive analysis, investor due diligence, and industry intelligence wit
+- **marketing-council** (automatic): When the user wants multiple expert perspectives on a marketing question — a simulated board of advi
+- **marketing-ideas** (automatic): When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. 
+- **marketing-loops** (automatic): When the user wants to set up a recurring, self-running marketing workflow — a repeatable loop an AI
+- **marketing-plan** (automatic): When the user needs a comprehensive marketing plan for a client, a company they advise, or their own
+- **marketing-psychology** (automatic): When the user wants to apply psychological principles, mental models, or behavioral science to marke
+- **markstream-install** (automatic): Install and configure Markstream streaming Markdown renderers for Vue, React, Svelte, Angular, Nuxt,
+- **mcp-builder** (automatic): Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact wi
+- **mcp-cli** (automatic): Interface for MCP (Model Context Protocol) servers via CLI. Use when you need to interact with exter
+- **mcp-copilot-studio-server-generator** (automatic): Generate a complete MCP server implementation optimized for Copilot Studio integration with proper s
+- **mcp-create-adaptive-cards** (automatic): Add Adaptive Card response templates to MCP-based API plugins for visual data presentation in Micros
+- **mcp-create-declarative-agent** (automatic): Skill converted from mcp-create-declarative-agent.prompt.md
+- **mcp-deploy-manage-agents** (automatic): Skill converted from mcp-deploy-manage-agents.prompt.md
+- **mcp-developer** (automatic): Use when building, debugging, or extending MCP servers or clients that connect AI systems with exter
+- **mcp-implementation-security-review** (automatic): Review the implementation source code of MCP (Model Context Protocol) servers, clients, and tool han
+- **mcp-security-audit** (automatic): Audit MCP (Model Context Protocol) server configurations for security issues. Use this skill when:
+-
+- **mcp-server-patterns** (automatic): Build MCP servers with Node/TypeScript SDK — tools, resources, prompts, Zod validation, stdio vs Str
+- **mcp-toggle-normalize** (automatic): Re-normalizes MCP connector enable/disable state across all project entries in ~/.claude.json (compu
+- **md-to-docx** (automatic): Convert Markdown files to professionally formatted Word (.docx) documents with embedded PNG images —
+- **media-use** (automatic): Agent Media OS, the single skill for every media need in a HyperFrames project. Resolve BGM, SFX, im
+- **meeting-minutes** (automatic): Generate concise, actionable meeting minutes for internal meetings. Includes metadata, attendees, ag
+- **memory-merger** (automatic): Merges mature lessons from a domain memory file into its instruction file. Syntax: `/memory-merger >
+- **mentoring-juniors** (automatic): Socratic mentoring for junior developers and AI newcomers. Guides through questions, never answers. 
+- **mermaid-to-proverif** (automatic): Translates Mermaid sequenceDiagrams describing cryptographic protocols into ProVerif formal verifica
+- **mesh-memory** (automatic): Self-hosted semantic memory for AI agents via MCP. Save worklogs, decisions, and notes, then recall 
+- **microservices-architect** (automatic): Designs distributed system architectures, decomposes monoliths into bounded-context services, recomm
+- **microservices-patterns** (automatic): Design microservices architectures with service boundaries, event-driven communication, and resilien
+- **microsoft-agent-framework** (automatic): Create, update, refactor, explain, or review Microsoft Agent Framework solutions using shared guidan
+- **microsoft-code-reference** (automatic): Look up Microsoft API references, find working code samples, and verify SDK code is correct. Use whe
+- **microsoft-docs** (automatic): Understand Microsoft technologies by querying official documentation. Use whenever the user asks how
+- **microsoft-skill-creator** (automatic): Create agent skills for Microsoft technologies using Learn MCP tools. Use when users want to create 
+- **migrating-oracle-to-postgres-stored-procedures** (automatic): Migrates Oracle PL/SQL stored procedures to PostgreSQL PL/pgSQL. Translates Oracle-specific syntax, 
+- **minecraft-plugin-development** (automatic): Use this skill when building or modifying Minecraft server plugins for Paper, Spigot, or Bukkit, inc
+- **mini-context-graph** (automatic): A persistent, compounding knowledge base combining Karpathy's LLM Wiki pattern
+with a structured kno
+- **mkdocs-translations** (automatic): Generate a language translation for a mkdocs documentation stack.
+- **ml-pipeline** (automatic): Designs and implements production-grade ML pipeline infrastructure: configures experiment tracking w
+- **mle-workflow** (automatic): Production machine-learning engineering workflow for data contracts, reproducible training, model ev
+- **mobile-design** (automatic): (Mobile-First · Touch-First · Platform-Respectful)
+- **mobile-principles** (automatic): Mobile-specific UX principles - touch targets, hover-less doctrine, thumb zones, safe areas, gesture
+- **modern-python** (automatic): Configures Python projects with modern tooling (uv, ruff, ty). Use when creating projects, writing s
+- **mongodb-connection** (automatic): Optimize MongoDB client connection configuration (pools, timeouts, patterns) for any supported drive
+- **mongodb-mcp-setup** (automatic): Guide users through configuring key MongoDB MCP server options. Use this skill when a user has the M
+- **mongodb-schema-design** (automatic): MongoDB schema design patterns and anti-patterns. Use when designing data models, reviewing schemas,
+- **monitoring-expert** (automatic): Configures monitoring systems, implements structured logging pipelines, creates Prometheus/Grafana d
+- **motion-design** (automatic): Use only when explicitly requested by name. Applies motion design principles to create emotionally-d
+- **motion-doctrine** (automatic): GATEWAY — load FIRST before composing any HyperFrames animation or video. The high-level motion law 
+- **motion-graphics** (automatic): A short, design-led motion graphic where motion is the message — kinetic typography, stat count-up, 
+- **motion-principles** (automatic): Motion design foundation - timing, easing, enter/exit patterns, accessibility, performance.
+- **msgraph-sdk** (automatic): Integrate Microsoft Graph SDK into any project — .NET, TypeScript/JavaScript, or Python. Covers auth
+- **msstore-cli** (automatic): Microsoft Store Developer CLI (msstore) for publishing Windows applications to the Microsoft Store. 
+- **multi-stage-dockerfile** (automatic): Create optimized multi-stage Dockerfiles for any language or framework
+- **music-to-video** (automatic): Turn a music track (an audio file, a video to pull audio from, or a track generated from a mood brie
+- **mutation-testing** (automatic): Configures mewt or muton mutation testing campaigns — scopes targets, tunes timeouts, and optimizes 
+- **mvvm-toolkit** (automatic): CommunityToolkit.Mvvm (the MVVM Toolkit) core: source generators ([ObservableProperty], [RelayComman
+- **mvvm-toolkit-di** (automatic): Wire CommunityToolkit.Mvvm ViewModels into Microsoft.Extensions.DependencyInjection. Covers the .NET
+- **mvvm-toolkit-messenger** (automatic): CommunityToolkit.Mvvm Messenger pub/sub for decoupled communication between ViewModels (or any objec
+- **namecheap** (automatic): Manage DNS records for domains registered with Namecheap via their API. List domains, view/add/updat
+- **nano-banana-pro-openrouter** (automatic): Generate or edit images via OpenRouter with the Gemini 3 Pro Image model. Use for prompt-only image 
+- **napkin** (automatic): Visual whiteboard collaboration for Copilot CLI. Creates an interactive whiteboard that opens in you
+- **nestjs-expert** (automatic): Creates and configures NestJS modules, controllers, services, DTOs, guards, and interceptors for ent
+- **newsletter-voice** (automatic): Build newsletter writing instructions inside a Cowork project. Runs after voice-builder. Produces ne
+- **next-intl-add-language** (automatic): Add new language to a Next.js + next-intl application
+- **nextjs-app-router-patterns** (automatic): Use only when explicitly requested by name. Master Next.js 14+ App Router with Server Components, st
+- **nextjs-best-practices** (automatic): Next.js App Router principles. Server Components, data fetching, routing patterns.
+- **nextjs-developer** (automatic): Use when building Next.js 14+ applications with App Router, server components, or server actions. In
+- **nextjs-turbopack** (automatic): Next.js 16+ and Turbopack — incremental bundling, FS caching, dev speed, and when to use Turbopack v
+- **niche-research** (automatic): Surface the 20 most relevant stories in a niche from the last 7 days using Claude for Chrome. Verifi
+- **noob-mode** (automatic): Plain-English translation layer for non-technical Copilot CLI users. Translates every approval promp
+- **notebooklm** (automatic): Complete API for Google NotebookLM - full programmatic access including features not in the web UI. 
+- **nuget-manager** (automatic): Manage NuGet packages in .NET projects/solutions. Use this skill when adding, removing, or updating 
+- **observability-and-instrumentation** (automatic): Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics
+- **observability-engineer** (automatic): Build production-ready monitoring, logging, and tracing systems. Implements comprehensive observabil
+- **offers** (automatic): When the user wants to design, construct, or improve an offer — the thing they actually sell — inclu
+- **onboard-context-matic** (automatic): Interactive onboarding tour for the context-matic MCP server. Walks the user through what the server
+- **onboarding** (automatic): When the user wants to optimize post-signup onboarding, user activation, first-run experience, or ti
+- **oo-component-documentation** (automatic): Create or update standardized object-oriented component documentation using a shared template plus m
+- **open-sourcing** (automatic): This skill should be used when the user asks to "open source this project", "prepare this repository
+- **openai-docs** (automatic): Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosin
+- **openapi-spec-generation** (automatic): Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patte
+- **openapi-to-application-code** (automatic): Generate a complete, production-ready application from an OpenAPI specification
+- **optimize-simplicite-logs** (automatic): capability to parse Simplicité logs from a raw `.txt` file, filter fields to reduce noise, and outpu
+- **orchestrate-batch-refactor** (automatic): Plan and execute large refactor or rewrite efforts efficiently with parallel multi-agent analysis an
+- **ossfuzz** (automatic): OSS-Fuzz provides free continuous fuzzing for open source projects. Use when setting up continuous f
+- **oversized-cursor** (automatic): House-style oversized macOS cursor technique for HyperFrames launch videos. Load whenever a scene in
+- **paint** (automatic): Paint a complete visual universe with genjutsu - art direction brainstorm, design system, implementa
+- **pandas-pro** (automatic): Performs pandas DataFrame operations for data analysis, manipulation, and transformation. Use when w
+- **paywalls** (automatic): When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or featur
+- **pci-compliance** (automatic): Implement PCI DSS compliance requirements for secure handling of payment card data and payment syste
+- **pdf** (automatic): Use this skill whenever the user wants to do anything with PDF files. This includes reading or extra
+- **pdftk-server** (automatic): Skill for using the command-line tool pdftk (PDFtk Server) for working with PDF files. Use when aske
+- **penpot-uiux-design** (automatic): Comprehensive guide for creating professional UI/UX designs in Penpot using MCP tools. Use this skil
+- **performance** (automatic): Optimize web performance for faster loading and better user experience. Use when asked to "speed up 
+- **performance-engineer** (automatic): Expert performance engineer specializing in modern observability, application optimization, and scal
+- **performance-review-writer** (automatic): Draft performance reviews, self-assessments, peer reviews, and upward feedback in your own voice. An
+- **pester-migration** (automatic): Pester migration skill for upgrading PowerShell Pester test suites across major versions — v3→v4, v4
+- **pester-should-migration** (automatic): Experimental (preview) Pester skill for migrating classic Should -Be (v5) assertion syntax to the ne
+- **phoenix-cli** (automatic): Debug LLM applications using the Phoenix CLI. Fetch traces, analyze errors, structure trace review w
+- **phoenix-evals** (automatic): Build and run evaluators for AI/LLM applications using Phoenix.
+- **phoenix-tracing** (automatic): OpenInference semantic conventions and instrumentation for Phoenix AI observability. Use when implem
+- **php-mcp-server-generator** (automatic): Generate a complete PHP Model Context Protocol server project with tools, resources, prompts, and te
+- **php-pro** (automatic): Use when building PHP applications with modern PHP 8.3+ features, Laravel, or Symfony frameworks. In
+- **pick-ui-library** (automatic): Pick the right library for a given frontend task from a curated, opinionated list — numbers, OTP inp
+- **pinecone-rag** (automatic): Build production RAG pipelines and persistent agent memory using Pinecone as the vector database bac
+- **pinned-comment** (automatic): Write LinkedIn pinned comments AND image generation prompts in Charlie Hills' signature style. Use w
+- **plan-canvas** (automatic): Open plans and HTML artifacts in a local browser canvas where the human annotates elements, chats, a
+- **planning-oracle-to-postgres-migration-integration-testing** (automatic): Creates an integration testing plan for .NET data access artifacts during Oracle-to-PostgreSQL datab
+- **planning-with-files** (automatic): Work like Manus: Use persistent markdown files as your "working memory on disk."
+- **plantuml-ascii** (automatic): Generate ASCII art diagrams using PlantUML text mode. Use when user asks to create ASCII diagrams, t
+- **playwright-automation-fill-in-form** (automatic): Automate filling in a form using Playwright MCP
+- **playwright-best-practices** (automatic): Use when writing Playwright tests, fixing flaky tests, debugging failures, implementing Page Object 
+- **playwright-cli** (automatic): Automate browser interactions, test web pages and work with Playwright tests.
+- **playwright-expert** (automatic): Use when writing E2E tests with Playwright, setting up test infrastructure, or debugging flaky brows
+- **playwright-explore-website** (automatic): Website exploration for testing using Playwright MCP
+- **playwright-generate-test** (automatic): Generate a Playwright test based on a scenario using Playwright MCP
+- **playwright-skill** (automatic): Use only when explicitly requested by name. Complete browser automation with Playwright. Auto-detect
+- **ponytail** (automatic): Forces the laziest solution that actually works, simplest, shortest, most minimal. Channels a senior
+- **ponytail-audit** (automatic): Whole-repo audit for over-engineering. Like ponytail-review, but scans the entire codebase instead o
+- **ponytail-debt** (automatic): Harvest every `ponytail:` comment in the codebase into a debt ledger, so the deliberate shortcuts an
+- **ponytail-gain** (automatic): Show ponytail's measured impact as a compact scoreboard: less code, less cost, more speed, from the 
+- **ponytail-help** (automatic): Quick-reference card for all ponytail modes, skills, and commands. One-shot display, not a persisten
+- **ponytail-review** (automatic): Code review focused exclusively on over-engineering. Finds what to delete: reinvented standard libra
+- **popups** (automatic): When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conver
+- **post-formatter** (automatic): Turn a topic into a ready-to-publish LinkedIn post using PAS, AIDA, BAB, STAR, or SLAY frameworks. 2
+- **post-scorer** (automatic): Score a LinkedIn post using real performance data. Pulls the user's own post history via Apify (or u
+- **post-writer** (automatic): Write LinkedIn posts that match the user's voice system (about-me.md and voice.md). Use this skill w
+- **postgres-pro** (automatic): Use when optimizing PostgreSQL queries, configuring replication, or implementing advanced database f
+- **postgresql-code-review** (automatic): PostgreSQL-specific code review assistant focusing on PostgreSQL best practices, anti-patterns, and 
+- **postgresql-optimization** (automatic): PostgreSQL-specific development assistant focusing on unique PostgreSQL features, advanced data type
+- **postmortem-writing** (automatic): Write effective blameless postmortems with root cause analysis, timelines, and action items. Use whe
+- **power-apps-code-app-scaffold** (automatic): Scaffold a complete Power Apps Code App project with PAC CLI setup, SDK integration, and connector c
+- **power-bi-dax-optimization** (automatic): Comprehensive Power BI DAX formula optimization prompt for improving performance, readability, and m
+- **power-bi-model-design-review** (automatic): Comprehensive Power BI data model design review prompt for evaluating model architecture, relationsh
+- **power-bi-performance-troubleshooting** (automatic): Systematic Power BI performance troubleshooting prompt for identifying, diagnosing, and resolving pe
+- **power-bi-report-design-consultation** (automatic): Power BI report visualization design prompt for creating effective, user-friendly, and accessible re
+- **power-platform-architect** (automatic): Use this skill when the user needs to transform business requirements, use case descriptions, or mee
+- **power-platform-mcp-connector-suite** (automatic): Generate complete Power Platform custom connector with MCP integration for Copilot Studio - includes
+- **powerbi-modeling** (automatic): Power BI semantic modeling assistant for building optimized data models. Use when working with Power
+- **pptx** (automatic): Use this skill any time a .pptx or .potx file is involved in any way — as input, output, or both. Th
+- **pr-dashboard** (automatic): Open a GitHub PR dashboard in the browser. Use when the user asks to see their pull requests, open t
+- **pr-link-issue** (automatic): Append a GitHub issue link and its Linear ticket to the current PR's description. Use when asked to 
+- **pr-screenshots** (automatic): Embed before/after screenshots and annotated images in pull request descriptions. Covers PR descript
+- **pr-to-video** (automatic): Turn a GitHub pull request (a PR URL, owner/repo#N, or 'this PR' in a checked-out repo) into a code-
+- **pr-writer** (automatic): Use only when explicitly requested by name. Create pull requests following Sentry's engineering prac
+- **prd** (automatic): Generate high-quality Product Requirements Documents (PRDs) for software systems and AI-powered feat
+- **premium-frontend-ui** (automatic): A comprehensive guide for GitHub Copilot to craft immersive, high-performance web experiences with a
+- **presentation-creator** (automatic): Create data-driven presentation slides using React, Vite, and Recharts with Sentry branding. Use whe
+- **pricing** (automatic): When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when 
+- **primary-source-research** (automatic): Investigate a question against high-trust primary sources and capture the findings as a Markdown fil
+- **privacy-by-design** (automatic): Use when building apps that collect user data. Ensures privacy protections are built in from the sta
+- **product-capability** (automatic): Translate PRD intent, roadmap asks, or product discussions into an implementation-ready capability p
+- **product-launch-video** (automatic): Turn a product or marketing URL, pasted script, or brief into a product launch / promo video — SaaS 
+- **product-marketing** (automatic): When the user wants to create or update their product marketing context document. Also use when the 
+- **profile-optimizer** (automatic): Rebuild a LinkedIn profile for maximum conversions. Produces new headline options, about section, ex
+- **programmatic-seo** (automatic): When the user wants to create SEO-driven pages at scale using templates and data. Also use when the 
+- **project-skill-audit** (automatic): Analyze a project's past Codex sessions, memory files, and existing local skills to recommend the hi
+- **project-workflow-analysis-blueprint-generator** (automatic): Comprehensive technology-agnostic prompt generator for documenting end-to-end application workflows.
+- **projection-patterns** (automatic): Build read models and projections from event streams. Use when implementing CQRS read sides, buildin
+- **prompt-caching** (automatic): Caching strategies for LLM prompts including Anthropic prompt caching, response caching, and CAG (Ca
+- **prompt-engineer** (automatic): Writes, refactors, and evaluates prompts for LLMs — generating optimized prompt templates, structure
+- **prompt-engineering** (automatic): Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when u
+- **prompt-optimizer** (automatic): Creates, optimizes, and iteratively refines agent prompts, system prompts, developer prompts, and re
+- **property-based-testing** (automatic): Provides guidance for property-based testing across multiple languages and smart contracts. Use when
+- **prospecting** (automatic): When the user wants to find, qualify, and build a list of prospects to reach out to — across B2B Saa
+- **prototype** (automatic): Build multiple genuinely different versions of a UI piece you describe, rendered behind a visual pic
+- **public-relations** (automatic): When the user wants help with public relations, earned media, press coverage, journalist outreach, o
+- **publish-to-pages** (automatic): Publish presentations and web content to GitHub Pages. Converts PPTX, PDF, HTML, or Google Slides to
+- **pytest-coverage** (automatic): Run pytest tests with coverage, discover lines missing coverage, and increase coverage to 100%.
+- **python-azure-iot-edge-modules** (automatic): Build and operate Python Azure IoT Edge modules with robust messaging, deployment manifests, observa
+- **python-mcp-server-generator** (automatic): Generate a complete MCP server project in Python with tools, resources, and proper configuration
+- **python-pro** (automatic): Use when building Python 3.11+ applications requiring type safety, async programming, or robust erro
+- **python-pypi-package-builder** (automatic): End-to-end skill for building, testing, linting, versioning, and publishing a production-grade Pytho
+- **python-testing-patterns** (automatic): Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven developme
+- **qdrant-clients-sdk** (automatic): Qdrant provides client SDKs for various programming languages, allowing easy integration with Qdrant
+- **qdrant-deployment-options** (automatic): Guides Qdrant deployment selection. Use when someone asks 'how to deploy Qdrant', 'Docker vs Cloud',
+- **qdrant-horizontal-scaling** (automatic): Diagnoses and guides Qdrant horizontal scaling decisions. Use when someone asks 'vertical or horizon
+- **qdrant-indexing-performance-optimization** (automatic): Diagnoses and fixes slow Qdrant indexing and data ingestion. Use when someone reports 'uploads are s
+- **qdrant-memory-usage-optimization** (automatic): Diagnoses and reduces Qdrant memory usage. Use when someone reports 'memory too high', 'RAM keeps gr
+- **qdrant-minimize-latency** (automatic): Guides Qdrant query latency optimization. Use when someone asks 'search is slow', 'how to reduce lat
+- **qdrant-model-migration** (automatic): Guides embedding model migration in Qdrant without downtime. Use when someone asks 'how to switch em
+- **qdrant-monitoring** (automatic): Guides Qdrant monitoring and observability setup. Use when someone asks 'how to monitor Qdrant', 'wh
+- **qdrant-monitoring-debugging** (automatic): Diagnoses Qdrant production issues using metrics and observability tools. Use when someone reports '
+- **qdrant-monitoring-setup** (automatic): Guides Qdrant monitoring setup including Prometheus scraping, health probes, Hybrid Cloud metrics, a
+- **qdrant-performance-optimization** (automatic): Different techniques to optimize the performance of Qdrant, including indexing strategies, query opt
+- **qdrant-scaling** (automatic): Guides Qdrant scaling decisions. Use when someone asks 'how many nodes do I need', 'data doesn't fit
+- **qdrant-scaling-data-volume** (automatic): Guides Qdrant data volume scaling decisions. Use when someone asks 'data doesn't fit on one node', '
+- **qdrant-scaling-qps** (automatic): Guides Qdrant query throughput (QPS) scaling. Use when someone asks 'how to increase QPS', 'need mor
+- **qdrant-scaling-query-volume** (automatic): Guides Qdrant query volume scaling. Use when someone asks 'query returns too many results', 'scroll 
+- **qdrant-search-quality** (automatic): Diagnoses and improves Qdrant search relevance. Use when someone reports 'search results are bad', '
+- **qdrant-search-quality-diagnosis** (automatic): Diagnoses Qdrant search quality issues. Use when someone reports 'results are bad', 'wrong results',
+- **qdrant-search-speed-optimization** (automatic): Diagnoses and fixes slow Qdrant search. Use when someone reports 'search is slow', 'high latency', '
+- **qdrant-search-strategies** (automatic): Guides Qdrant search strategy selection. Use when someone asks 'should I use hybrid search?', 'BM25 
+- **qdrant-sliding-time-window** (automatic): Guides sliding time window scaling in Qdrant. Use when someone asks 'only recent data matters', 'how
+- **qdrant-tenant-scaling** (automatic): Guides Qdrant multi-tenant scaling. Use when someone asks 'how to scale tenants', 'one collection pe
+- **qdrant-version-upgrade** (automatic): Guidance on how to upgrade your Qdrant version without interrupting the availability of your applica
+- **qdrant-vertical-scaling** (automatic): Guides Qdrant vertical scaling decisions. Use when someone asks 'how to scale up a node', 'need more
+- **quality-playbook** (automatic): Run a complete quality engineering audit on any codebase. Derives behavioral requirements from the c
+- **quasi-coder** (automatic): Expert 10x engineer skill for interpreting and implementing code from shorthand, quasi-code, and nat
+- **quote-post** (automatic): Two-step workflow for creating quote posts on LinkedIn. Claude generates viral motivational quotes t
+- **rag-architect** (automatic): Designs and implements production-grade RAG systems by chunking documents, generating embeddings, co
+- **rag-engineer** (automatic): Use only when explicitly requested by name. Expert in building Retrieval-Augmented Generation system
+- **rag-implementation** (automatic): Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and se
+- **rails-expert** (automatic): Rails 7+ specialist that optimizes Active Record queries with includes/eager_load, implements Turbo 
+- **ralph-loop-workflow** (automatic): Run a coding agent in an autonomous loop via a /ralph command, gated by a preflight check that every
+- **react-audit-grep-patterns** (automatic): Provides the complete, verified grep scan command library for auditing React codebases before a Reac
+- **react-component-performance** (automatic): Analyze and optimize React component performance issues (slow renders, re-render thrash, laggy lists
+- **react-container-presentation-component** (automatic): Create a React component using the Container/Presentation pattern in src/components by asking for th
+- **react-expert** (automatic): Use when building React 18+ applications in .jsx or .tsx files, Next.js App Router projects, or crea
+- **react-native-expert** (automatic): Builds, optimizes, and debugs cross-platform mobile applications with React Native and Expo. Impleme
+- **react-patterns** (automatic): Modern React patterns and principles. Hooks, composition, performance, TypeScript best practices.
+- **react18-batching-patterns** (automatic): Provides exact patterns for diagnosing and fixing automatic batching regressions in React 18 class c
+- **react18-dep-compatibility** (automatic): React 18.3.1 and React 19 dependency compatibility matrix.
+- **react18-enzyme-to-rtl** (automatic): Provides exact Enzyme → React Testing Library migration patterns for React 18 upgrades. Use this ski
+- **react18-legacy-context** (automatic): Provides the complete migration pattern for React legacy context API (contextTypes, childContextType
+- **react18-lifecycle-patterns** (automatic): Provides exact before/after migration patterns for the three unsafe class component lifecycle method
+- **react18-string-refs** (automatic): Provides exact migration patterns for React string refs (ref="name" + this.refs.name) to React.creat
+- **react19-concurrent-patterns** (automatic): Preserve React 18 concurrent patterns and adopt React 19 APIs (useTransition, useDeferredValue, Susp
+- **react19-source-patterns** (automatic): Reference for React 19 source-file migration patterns, including API changes, ref handling, and cont
+- **react19-test-patterns** (automatic): Provides before/after patterns for migrating test files to React 19 compatibility, including act() i
+- **readme-blueprint-generator** (automatic): Intelligent README.md generation prompt that analyzes project documentation structure and creates co
+- **receiving-code-review** (automatic): Use when receiving code review feedback, before implementing suggestions, especially if feedback see
+- **redis-security** (automatic): Redis security guidance covering authentication (requirepass and ACL users), TLS, ACL-based least-pr
+- **reels-scripting** (automatic): Turn a reference Instagram Reel into a script for your own Reel, tuned to your voice and repurposed 
+- **refactor** (automatic): Surgical code refactoring to improve maintainability without changing behavior. Covers extracting fu
+- **refactor-method-complexity-reduce** (automatic): Refactor given method `${input:methodName}` to reduce its cognitive complexity to `${input:complexit
+- **refactor-module** (automatic): Transform monolithic Terraform configurations into reusable, maintainable modules following HashiCor
+- **refactor-plan** (automatic): Create a concrete plan before starting a multi-file refactor. Use when the user asks to plan, sequen
+- **refactoring-ui** (automatic): Audit and fix visual hierarchy, spacing, color, and depth in web UIs. Use when the user mentions "my
+- **referrals** (automatic): When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-o
+- **remember** (automatic): Transforms lessons learned into domain-organized memory instructions (global or workspace). Syntax: 
+- **remember-interactive-programming** (automatic): A micro-prompt that reminds the agent that it is an interactive programmer. Works great in Clojure w
+- **remotion-to-hyperframes** (automatic): Port an existing Remotion (React) composition's source to HyperFrames HTML. Use ONLY on an explicit 
+- **replay-ux-research** (automatic): Analyze Sentry session replays to surface UX patterns, pain points, and user journeys for a given pr
+- **repo-story-time** (automatic): Generate a comprehensive repository summary and narrative story from commit history
+- **requesting-code-review** (automatic): Use when completing tasks, implementing major features, or before merging to verify work meets requi
+- **resemble-detect** (automatic): Deepfake detection and media safety — detect AI-generated audio, images, video, and text, trace synt
+- **resolving-merge-conflicts** (automatic): Use when you need to resolve an in-progress git merge/rebase conflict.
+- **review-and-refactor** (automatic): Review and refactor code in your project according to defined instructions
+- **review-and-simplify-changes** (automatic): Review a git diff or explicit file scope for reuse, code quality, efficiency, clarity, and standards
+- **review-animations** (automatic): Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engin
+- **review-swarm** (automatic): Parallel read-only multi-agent review of a current git diff or explicit file scope to find behaviora
+- **reviewing-oracle-to-postgres-migration** (automatic): Identifies Oracle-to-PostgreSQL migration risks by cross-referencing code against known behavioral d
+- **revops** (automatic): When the user wants help with revenue operations, lead lifecycle management, or marketing-to-sales h
+- **rhino3d-scripts** (automatic): Authoring and debugging scripts for Rhinoceros 3D (Rhino 8 and later). Use when asked to write Rhino
+- **roundup** (automatic): Generate personalized status briefings on demand. Pulls from your configured data sources (GitHub, e
+- **roundup-setup** (automatic): Interactive onboarding that learns your communication style, audiences, and data sources to configur
+- **ruby-mcp-server-generator** (automatic): Generate a complete Model Context Protocol server project in Ruby using the official MCP Ruby SDK ge
+- **ruff-recursive-fix** (automatic): Run Ruff checks with optional scope and rule overrides, apply safe and unsafe autofixes iteratively,
+- **rust-engineer** (automatic): Writes, reviews, and debugs idiomatic Rust code with memory safety and zero-cost abstractions. Imple
+- **rust-mcp-server-generator** (automatic): Generate a complete Rust Model Context Protocol server project with tools, prompts, resources, and t
+- **rust-review** (automatic): Review Rust code for correctness, unsafe-code soundness, ownership and lifetime mistakes, panic and 
+- **ruzzy** (automatic): Ruzzy is a coverage-guided Ruby fuzzer by Trail of Bits. Use for fuzzing pure Ruby code and Ruby C e
+- **saga-orchestration** (automatic): Implement saga patterns for distributed transactions and cross-aggregate workflows. Use when coordin
+- **sales-enablement** (automatic): When the user wants to create sales collateral, pitch decks, one-pagers, objection handling docs, or
+- **salesforce-apex-quality** (automatic): Apex code quality guardrails for Salesforce development. Enforces bulk-safety rules (no SOQL/DML in 
+- **salesforce-component-standards** (automatic): Quality standards for Salesforce Lightning Web Components (LWC), Aura components, and Visualforce pa
+- **salesforce-developer** (automatic): Writes and debugs Apex code, builds Lightning Web Components, optimizes SOQL queries, implements tri
+- **salesforce-flow-design** (automatic): Salesforce Flow architecture decisions, flow type selection, bulk safety validation, and fault handl
+- **sandbox-npm-install** (automatic): Install npm packages in a Docker sandbox environment. Use this skill whenever you need to install, r
+- **sandbox-sdk** (automatic): Build sandboxed applications for secure code execution. Load when building AI code execution, code i
+- **sarif-parsing** (automatic): Parses and processes SARIF files from static analysis tools like CodeQL, Semgrep, or other scanners.
+- **sast-configuration** (automatic): Configure and govern static application security testing with Semgrep, CodeQL, SARIF, and CI quality
+- **scaffolding-oracle-to-postgres-migration-test-project** (automatic): Scaffolds an xUnit integration test project for validating Oracle-to-PostgreSQL database migration b
+- **schema** (automatic): When the user wants to add, fix, or optimize schema markup and structured data on their site. Also u
+- **scoutqa-test** (automatic): This skill should be used when the user asks to "test this website", "run exploratory testing", "che
+- **screen-reader-testing** (automatic): Test web applications with screen readers including VoiceOver, NVDA, and JAWS. Use when validating s
+- **screen-recording** (automatic): Create annotated animated GIF demos and screen recordings for pull requests and documentation. Cover
+- **scroll-experience** (automatic): Expert in building immersive scroll-driven experiences - parallax storytelling, scroll animations, i
+- **scroll-world** (automatic): Use only when explicitly requested by name. Build an immersive scroll-scrubbed "fly through the worl
+- **seam-craft** (automatic): Render-correctness doctrine for scene-to-scene seams in HyperFrames launch videos — the prerequisite
+- **search-first** (automatic): Research-before-coding workflow. Search for existing tools, libraries, and patterns before writing c
+- **second-brain** (automatic): Set up a new Obsidian knowledge base with the LLM Wiki pattern. Use when the user wants to create a 
+- **second-opinion** (automatic): Runs external LLM code reviews (OpenAI Codex or Google Gemini CLI) on uncommitted changes, branch di
+- **secret-scanning** (automatic): Guide for configuring and managing GitHub secret scanning, push protection, custom patterns, and sec
+- **secrets-management** (automatic): Implement secure secrets management for CI/CD pipelines using Vault, AWS Secrets Manager, or native 
+- **secure-code-guardian** (automatic): Use when implementing authentication/authorization, securing user input, or preventing OWASP Top 10 
+- **secure-workflow-guide** (automatic): Guides through Trail of Bits' 5-step secure development workflow. Runs Slither scans, checks special
+- **security-and-hardening** (automatic): Use only when explicitly requested by name. Hardens code against vulnerabilities. Use when handling 
+- **security-audit** (automatic): Security audit of a codebase — web apps, APIs, services, CLI tools, libraries, daemons, and more. Us
+- **security-auditor** (automatic): Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frame
+- **security-best-practices** (automatic): Perform language and framework specific security best-practice reviews and suggest improvements. Tri
+- **security-review** (automatic): Use this skill when adding authentication, handling user input, working with secrets, creating API e
+- **security-reviewer** (automatic): Identifies security vulnerabilities, generates structured audit reports with severity ratings, and p
+- **security-threat-model** (automatic): Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities,
+- **semantic-kernel** (automatic): Create, update, refactor, explain, or review Semantic Kernel solutions using shared guidance plus la
+- **semgrep** (automatic): Run Semgrep static analysis scan on a codebase using parallel subagents. Supports two scan modes — "
+- **semgrep-rule-creator** (automatic): Creates custom Semgrep rules for detecting security vulnerabilities, bug patterns, and code patterns
+- **semgrep-rule-variant-creator** (automatic): Creates language variants of existing Semgrep rules. Use when porting a Semgrep rule to specified ta
+- **senior-architect** (automatic): Complete toolkit for senior architect with modern tools and best practices.
+- **sentry-cocoa-sdk** (automatic): Full Sentry SDK setup for Apple platforms (iOS, macOS, tvOS, watchOS, visionOS). Use when asked to "
+- **sentry-create-alert** (automatic): Create Sentry alerts using the workflow engine API. Use when asked to create alerts, set up notifica
+- **sentry-dotnet-sdk** (automatic): Full Sentry SDK setup for .NET. Use when asked to "add Sentry to .NET", "install Sentry for C#", or 
+- **sentry-fix-issues** (automatic): Find and fix issues from Sentry using MCP. Use when asked to fix Sentry errors, debug production iss
+- **sentry-go-sdk** (automatic): Full Sentry SDK setup for Go. Use when asked to "add Sentry to Go", "install sentry-go", "setup Sent
+- **sentry-nextjs-sdk** (automatic): Full Sentry SDK setup for Next.js. Use when asked to "add Sentry to Next.js", "install @sentry/nextj
+- **sentry-node-sdk** (automatic): Full Sentry SDK setup for Node.js, Bun, and Deno. Use when asked to "add Sentry to Node.js", "add Se
+- **sentry-otel-exporter-setup** (automatic): Configure the OpenTelemetry Collector with Sentry Exporter for multi-project routing and automatic p
+- **sentry-pr-code-review** (automatic): Review a project's PRs to check for issues detected in code review by Seer Bug Prediction. Use when 
+- **sentry-python-sdk** (automatic): Full Sentry SDK setup for Python. Use when asked to "add Sentry to Python", "install sentry-sdk", "s
+- **sentry-react-native-sdk** (automatic): Full Sentry SDK setup for React Native and Expo. Use when asked to "add Sentry to React Native", "in
+- **sentry-react-sdk** (automatic): Full Sentry SDK setup for React. Use when asked to "add Sentry to React", "install @sentry/react", o
+- **sentry-ruby-sdk** (automatic): Full Sentry SDK setup for Ruby. Use when asked to add Sentry to Ruby, install sentry-ruby, setup Sen
+- **sentry-sdk-skill-creator** (automatic): Create a complete Sentry SDK skill bundle for any platform. Use when asked to "create an SDK skill",
+- **sentry-setup-ai-monitoring** (automatic): Setup Sentry AI Agent Monitoring in any project. Use when asked to monitor LLM calls, track AI agent
+- **sentry-svelte-sdk** (automatic): Full Sentry SDK setup for Svelte and SvelteKit. Use when asked to "add Sentry to Svelte", "add Sentr
+- **seo** (automatic): Optimize for search engine visibility and ranking. Use when asked to "improve SEO", "optimize for se
+- **seo-audit** (automatic): When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user m
+- **setup-my-iq** (automatic): Create, set up, or update the personal context portfolio: structured markdown files describing
+who y
+- **setup-pre-commit** (automatic): Set up Husky pre-commit hooks with lint-staged (Prettier), type checking, and tests in the current r
+- **shadcn** (automatic): Manages shadcn components and projects — adding, searching, fixing, debugging, styling, and composin
+- **sharp-edges** (automatic): Identifies error-prone APIs, dangerous configurations, and footgun designs that enable security mist
+- **shopify-expert** (automatic): Builds and debugs Shopify themes (.liquid files, theme.json, sections), develops custom Shopify apps
+- **shopify-review-triage** (automatic): Use this skill when someone wants public Shopify App Store reviews, low-star reviews, or merchant fe
+- **shuffle-json-data** (automatic): Shuffle repetitive JSON objects safely by validating schema consistency before randomising entries.
+- **signal-write** (automatic): Emit structured agent signals — hands-up, blocked, done, checkpoint, partnership. Signals are writte
+- **signup** (automatic): When the user wants to optimize signup, registration, account creation, or trial activation flows. A
+- **site-architecture** (automatic): When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL str
+- **skill-creator** (automatic): Guide for creating effective skills. This skill should be used when users want to create a new skill
+- **skill-improver** (automatic): Iteratively reviews and fixes Claude Code skill quality issues until they meet standards. Runs autom
+- **skill-issue** (automatic): Governs the form of compact, evidence-earned agent skills. Use only when the user explicitly asks to
+- **skill-scanner** (automatic): Scan agent skills for security issues. Use when asked to "scan a skill", "audit a skill", "review sk
+- **skill-writer** (automatic): Create, synthesize, and iteratively improve agent skills following the Agent Skills specification. U
+- **slack-gif-creator** (automatic): Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, valida
+- **slang-shader-engineer** (automatic): Use when working with Slang shaders, shader modules, HLSL-compatible GPU code, graphics pipelines, c
+- **slicing-code-context** (automatic): Selects bounded, graph-informed source slices with Trailmark and delegates focused code analysis or 
+- **slides** (automatic): Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting fo
+- **slideshow** (automatic): Author a HyperFrames slideshow — a presentation, pitch deck, or interactive deck with discrete slide
+- **slo-implementation** (automatic): Define and implement Service Level Indicators (SLIs) and Service Level Objectives (SLOs) with error 
+- **sms** (automatic): When the user wants to plan, build, or optimize SMS or MMS marketing — including welcome flows, aban
+- **snowflake-semanticview** (automatic): Create, alter, and validate Snowflake semantic views using Snowflake CLI (snow). Use when asked to b
+- **social** (automatic): When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twit
+- **social-media** (automatic): Use only when explicitly requested by name. Drafts engaging social media posts, writes hooks, sugges
+- **solana-vulnerability-scanner** (automatic): Scans Solana programs for 6 critical vulnerabilities including arbitrary CPI, improper PDA validatio
+- **spark-engineer** (automatic): Use when writing Spark jobs, debugging performance issues, or configuring cluster settings for Apach
+- **spec-miner** (automatic): Reverse-engineering specialist that extracts specifications from existing codebases. Use when workin
+- **spec-to-code-compliance** (automatic): Verifies code implements exactly what documentation specifies for blockchain audits. Use when compar
+- **sponsor-finder** (automatic): Find which of a GitHub repository's dependencies are sponsorable via GitHub Sponsors. Uses deps.dev 
+- **spring-boot-engineer** (automatic): Generates Spring Boot 3.x configurations, creates REST controllers, implements Spring Security 6 aut
+- **spring-boot-testing** (automatic): Expert Spring Boot 4 testing specialist that selects the best Spring Boot testing techniques for you
+- **sql-code-review** (automatic): Universal SQL code review assistant that performs comprehensive security, maintainability, and code 
+- **sql-optimization** (automatic): Universal SQL performance optimization assistant for comprehensive query tuning, indexing strategies
+- **sql-pro** (automatic): Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques
+- **sql-server-table-reconciliation** (automatic): Use when: comparing SQL Server tables across instances, data migration validation, ETL verification,
+- **sre-engineer** (automatic): Defines service level objectives, creates error budget policies, designs incident response procedure
+- **sred-project-organizer** (automatic): Take a list of projects and their related documentation, and organize them into the SRED format for 
+- **sred-work-summary** (automatic): Go back through the previous year of work and create a Notion doc that groups relevant links into pr
+- **ss-review** (automatic): Use only when explicitly requested by name. Review UI code for design system compliance, accessibili
+- **ssma-console** (automatic): Use when: SSMA console operations — create project, generate assessment report, convert schema, migr
+- **steno-mode** (automatic): Shorthand-first response compression that cuts ~40% of response tokens while preserving technical pr
+- **strategic-compact** (automatic): Suggests manual context compaction at logical intervals to preserve context through task phases rath
+- **structured-autonomy-generate** (automatic): Structured Autonomy Implementation Generator Prompt
+- **structured-autonomy-implement** (automatic): Structured Autonomy Implementation Prompt
+- **structured-autonomy-plan** (automatic): Structured Autonomy Planning Prompt
+- **subagent-driven-development** (automatic): Use when executing implementation plans with independent tasks in the current session
+- **substrate-vulnerability-scanner** (automatic): Scans Substrate/Polkadot pallets for 7 critical vulnerabilities including arithmetic overflow, panic
+- **suggest-awesome-github-copilot-agents** (automatic): Suggest relevant GitHub Copilot Custom Agents files from the awesome-copilot repository based on cur
+- **suggest-awesome-github-copilot-instructions** (automatic): Suggest relevant GitHub Copilot instruction files from the awesome-copilot repository based on curre
+- **suggest-awesome-github-copilot-skills** (automatic): Suggest relevant GitHub Copilot skills from the awesome-copilot repository based on current reposito
+- **supabase** (automatic): Use when doing ANY task involving Supabase. Triggers: Supabase products (Database, Auth, Edge Functi
+- **supabase-postgres-best-practices** (automatic): Postgres best practices maintained by Supabase, for Postgres running anywhere. Load this skill BEFOR
+- **supply-chain-risk-auditor** (automatic): Identifies dependencies at heightened risk of exploitation or takeover. Use when assessing supply ch
+- **swift-concurrency-expert** (automatic): Swift Concurrency review and remediation for Swift 6.2+. Use when asked to review Swift Concurrency 
+- **swift-expert** (automatic): Builds iOS/macOS/watchOS/tvOS applications, implements SwiftUI views and state management, designs p
+- **swift-mcp-server-generator** (automatic): Generate a complete Model Context Protocol server project in Swift using the official MCP Swift SDK 
+- **swiftui-graphics** (automatic): Advanced SwiftUI visuals - Metal shaders (.colorEffect, .layerEffect, .distortionEffect), .visualEff
+- **swiftui-liquid-glass** (automatic): Implement, review, or improve SwiftUI features using the iOS 26+ Liquid Glass API. Use when asked to
+- **swiftui-motion** (automatic): SwiftUI animation foundations - withAnimation, transitions, matchedGeometryEffect, PhaseAnimator, Ke
+- **swiftui-performance-audit** (automatic): Audit and improve SwiftUI runtime performance from code review and architecture. Use for requests to
+- **swiftui-ui-patterns** (automatic): Best practices and example-driven guidance for building SwiftUI views and components, including navi
+- **swiftui-view-refactor** (automatic): Refactor and review SwiftUI view files with strong defaults for small dedicated subviews, MV-over-MV
+- **systematic-debugging** (automatic): Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+- **tailwind-design-system** (automatic): Build scalable design systems with Tailwind CSS v4, design tokens, component libraries, and responsi
+- **tailwind-patterns** (automatic): Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design toke
+- **talking-head-recut** (automatic): Package an existing talking-head / interview / podcast video with timed, designed GRAPHIC OVERLAY ca
+- **tdd** (automatic): Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions 
+- **tdd-workflow** (automatic): Use this skill when writing new features, fixing bugs, or refactoring code. Enforces test-driven dev
+- **technical-job-search** (automatic): Use this skill when a software engineer asks for help with job search tasks: parsing or analyzing a 
+- **technology-stack-blueprint-generator** (automatic): Comprehensive technology stack blueprint generator that analyzes codebases to create detailed archit
+- **terraform-azurerm-set-diff-analyzer** (automatic): Analyze Terraform plan JSON output for AzureRM Provider to distinguish between false-positive diffs 
+- **terraform-engineer** (automatic): Use when implementing infrastructure as code with Terraform across AWS, Azure, or GCP. Invoke for mo
+- **terraform-search-import** (automatic): Discover existing cloud resources using Terraform Search queries and bulk import them into Terraform
+- **terraform-specialist** (automatic): Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterp
+- **terraform-style-guide** (automatic): Generate Terraform HCL code following HashiCorp's official style conventions and best practices. Use
+- **terraform-test** (automatic): Comprehensive guide for writing and running Terraform tests. Use when creating test files (.tftest.h
+- **test-driven-development** (automatic): Use only when explicitly requested by name. Use when implementing any feature or bugfix, before writ
+- **test-fixing** (automatic): Systematically identify and fix all failing tests using smart grouping strategies. Use when explicit
+- **test-master** (automatic): Generates test files, creates mocking strategies, analyzes code coverage, designs test architectures
+- **testing-handbook-generator** (automatic): Meta-skill that analyzes the Trail of Bits Testing Handbook (appsec.guide) and generates Claude Code
+- **the-fool** (automatic): Use when challenging ideas, plans, decisions, or proposals using structured critical reasoning. Invo
+- **theme-factory** (automatic): Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML la
+- **threat-model-analyst** (automatic): Full STRIDE-A threat model analysis and incremental update skill for repositories and systems. Suppo
+- **threat-modeling-expert** (automatic): Expert in threat modeling methodologies, security architecture review, and risk assessment. Masters 
+- **threejs-animation** (automatic): Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. Use wh
+- **threejs-fundamentals** (automatic): Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems. Use when setting up
+- **threejs-geometry** (automatic): Three.js geometry creation - built-in shapes, BufferGeometry, custom geometry, instancing. Use when 
+- **threejs-interaction** (automatic): Three.js interaction - raycasting, controls, mouse/touch input, object selection. Use when handling 
+- **threejs-lighting** (automatic): Three.js lighting - light types, shadows, environment lighting. Use when adding lights, configuring 
+- **threejs-loaders** (automatic): Three.js asset loading - GLTF, textures, images, models, async patterns. Use when loading 3D models,
+- **threejs-materials** (automatic): Three.js materials - PBR, basic, phong, shader materials, material properties. Use when styling mesh
+- **threejs-postprocessing** (automatic): Three.js post-processing - EffectComposer, bloom, DOF, screen effects. Use when adding visual effect
+- **threejs-shaders** (automatic): Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when creating custom visual e
+- **threejs-textures** (automatic): Three.js textures - texture types, UV mapping, environment maps, texture settings. Use when working 
+- **tiny-stepping** (automatic): Incremental development workflow that makes the smallest meaningful change per step and pauses for f
+- **tldr-prompt** (automatic): Create tldr summaries for GitHub Copilot files (prompts, agents, instructions, collections), MCP ser
+- **tm7-threat-model** (automatic): Creates valid Microsoft Threat Modeling Tool (.tm7) files compatible with the Microsoft Threat Model
+- **to-spec** (automatic): Turn decisions already made in the current conversation into a concrete specification and publish it
+- **to-tickets** (automatic): Break an existing plan, specification, or settled conversation into small tracer-bullet tickets with
+- **token-integration-analyzer** (automatic): Token integration and implementation analyzer based on Trail of Bits' token integration checklist. A
+- **ton-vulnerability-scanner** (automatic): Scans TON (The Open Network) smart contracts for 3 critical vulnerabilities including integer-as-boo
+- **top-web-vulnerabilities** (automatic): Provide a comprehensive, structured reference for the 100 most critical web application vulnerabilit
+- **trailmark** (automatic): Builds and queries multi-language source and binary code graphs for security analysis. Includes pre-
+- **trailmark-finding-triage** (automatic): Performs graph-assisted triage of a single security finding, SARIF result, weAudit annotation, suspi
+- **trailmark-review-gate** (automatic): Runs a Trailmark structural review gate over a branch, pull request, fix commit, release diff, or gi
+- **trailmark-structural** (automatic): Runs full Trailmark structural analysis by building a graph, running `preanalysis()`, and reporting 
+- **trailmark-summary** (automatic): Runs a Trailmark summary analysis on a codebase. Returns auto-detected languages, entry point count,
+- **trailmark-variant-neighborhood** (automatic): Expands one confirmed or suspected vulnerability into a Trailmark graph neighborhood of variant cand
+- **transloadit-media-processing** (automatic): Process media files (video, audio, images, documents) using Transloadit. Use when asked to encode vi
+- **triage-frontend-issues** (automatic): Triage new issues in the Sentry `javascript` project by archiving non-actionable noise. Use when ask
+- **turborepo** (automatic): Turborepo monorepo build system guidance. Triggers on: turbo.json, task pipelines,
+dependsOn, cachin
+- **two-factor-authentication-best-practices** (automatic): Configure TOTP authenticator apps, send OTP codes via email/SMS, manage backup codes, handle trusted
+- **typescript-advanced-types** (automatic): Master TypeScript's advanced type system including generics, conditional types, mapped types, templa
+- **typescript-mcp-server-generator** (automatic): Generate a complete MCP server project in TypeScript using the MCP TypeScript SDK v2 (@modelcontextp
+- **typescript-pro** (automatic): Implements advanced TypeScript type systems, creates custom type guards, utility types, and branded 
+- **typespec-api-operations** (automatic): Add GET, POST, PATCH, and DELETE operations to a TypeSpec API plugin with proper routing, parameters
+- **typespec-create-agent** (automatic): Generate a complete TypeSpec declarative agent with instructions, capabilities, and conversation sta
+- **typespec-create-api-plugin** (automatic): Generate a TypeSpec API plugin with REST operations, authentication, and Adaptive Cards for Microsof
+- **typing-exclusion-worker** (automatic): Python typing exclusion worker: remove assigned mypy exclusion modules in small scoped batches, fix 
+- **ui-design** (automatic): Design, build, or improve web and mobile interfaces using real product examples from UIZZE’s 500,000
+- **ui-radar** (automatic): Find and compare real UI examples from UIZZE’s 500,000+ web and iOS screens. Use for UI inspiration,
+- **ui-screenshots** (automatic): Capture screenshots of web apps during development using Playwright and PIL. Supports full-page capt
+- **ui-slop-score** (automatic): Review a rendered web or mobile interface and score how generic it looks. Use for UI critique, desig
+- **ui-styling** (automatic): Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind
+- **ui-ux-pro-max** (automatic): UI/UX design intelligence for web and mobile. Searchable local database with 84 styles, 192 color pa
+- **understand** (automatic): Use only when explicitly requested by name. Analyze a codebase to produce an interactive knowledge g
+- **understand-chat** (automatic): Use only when explicitly requested by name. Use when you need to ask questions about a codebase or u
+- **understand-dashboard** (automatic): Launch the interactive web dashboard to visualize a codebase's knowledge graph
+- **understand-diff** (automatic): Use only when explicitly requested by name. Use when you need to analyze git diffs or pull requests 
+- **understand-domain** (automatic): Extract business domain knowledge from a codebase and generate an interactive domain flow graph. Wor
+- **understand-explain** (automatic): Use only when explicitly requested by name. Use when you need a deep-dive explanation of a specific 
+- **understand-figma** (automatic): Analyze a Figma file via the Figma REST API and generate an interactive design knowledge graph (page
+- **understand-knowledge** (automatic): Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with 
+- **understand-onboard** (automatic): Use only when explicitly requested by name. Use when you need to generate an onboarding guide for ne
+- **unified-memory** (automatic): Share durable, inspectable context and handoffs between Claude, Codex, Hermes, Cursor, OpenCode, and
+- **update-avm-modules-in-bicep** (automatic): Update Azure Verified Modules (AVM) to latest versions in Bicep files.
+- **update-implementation-plan** (automatic): Update an existing implementation plan file with new or update requirements to provide new features,
+- **update-llms** (automatic): Update the llms.txt file in the root folder to reflect changes in documentation or specifications fo
+- **update-markdown-file-index** (automatic): Update a markdown file section with an index/table of files from a specified folder.
+- **update-specification** (automatic): Update an existing specification file for the solution, optimized for Generative AI consumption base
+- **using-git-worktrees** (automatic): Use when starting feature work that needs isolation from current workspace or before executing imple
+- **using-superpowers** (automatic): Use only when explicitly requested by name. Use when starting any conversation - establishes how to 
+- **vardoger-analyze** (automatic): Use when the user asks to personalize the GitHub Copilot CLI assistant, adapt Copilot to their style
+- **variant-analysis** (automatic): Find similar vulnerabilities and bugs across codebases using pattern-based analysis. Use when huntin
+- **vcpkg** (automatic): Guide for setting up vcpkg in C++ projects, managing dependency versions, and cross-compiling. Cover
+- **vector-database-engineer** (automatic): Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pineco
+- **vector-forge** (automatic): Mutation-driven test vector generation. Finds implementations of a cryptographic algorithm or protoc
+- **vercel-cli-with-tokens** (automatic): Deploy and manage projects on Vercel using token-based authentication. Use when working with Vercel 
+- **vercel-composition-patterns** (automatic): React composition patterns that scale. Use when refactoring components with boolean prop proliferati
+- **vercel-optimize** (automatic): Use for Vercel cost and performance optimization on deployed projects, especially Next.js, SvelteKit
+- **vercel-react-best-practices** (automatic): React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be 
+- **vercel-react-view-transitions** (automatic): Guide for implementing smooth, native-feeling animations using React's View Transition API (`<ViewTr
+- **verification-before-completion** (automatic): Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - req
+- **verification-loop** (automatic): A comprehensive verification system for Claude Code sessions.
+- **verify-agent-action** (automatic): Review a proposed AI-agent action or human-approval packet before execution. Use when an agent wants
+- **video** (automatic): When the user wants to create, generate, or produce video content using AI tools or programmatic fra
+- **video-editing** (automatic): AI-assisted video editing workflows for cutting, structuring, and augmenting real footage. Covers th
+- **voice-builder** (automatic): Build a personalised voice profile inside a Cowork project from a short interview plus 3 to 5 sample
+- **vscode-ext-commands** (automatic): Guidelines for contributing commands in VS Code extensions. Indicates naming convention, visibility,
+- **vscode-ext-localization** (automatic): Guidelines for proper localization of VS Code extensions, following VS Code extension development gu
+- **vue-expert** (automatic): Builds Vue 3 components with Composition API patterns, configures Nuxt 3 SSR/SSG projects, sets up P
+- **vue-expert-js** (automatic): Creates Vue 3 components, builds vanilla JS composables, configures Vite projects, and sets up routi
+- **vulnerability-triage-brocards** (automatic): This skill should be used when the user asks to "triage a vulnerability report", "assess a CVE", "ev
+- **wayfinder** (automatic): Plan work too large for one agent session as a durable map of decision tickets, resolving uncertaint
+- **web-artifacts-builder** (automatic): Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern fronten
+- **web-design-guidelines** (automatic): Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check acc
+- **web-design-reviewer** (automatic): This skill enables visual inspection of websites running locally or remotely to identify and fix des
+- **web-perf** (automatic): Analyzes web performance using Chrome DevTools MCP. Measures Core Web Vitals (LCP, INP, CLS) and sup
+- **web-quality-audit** (automatic): Comprehensive web quality audit covering performance, accessibility, SEO, and best practices. Use wh
+- **webapp-testing** (automatic): Toolkit for interacting with and testing local web applications using Playwright. Supports verifying
+- **webmcpify** (automatic): Make a web app agent-ready — propose a WebMCP tool manifest, integrate, verify in a real browser, he
+- **websocket-engineer** (automatic): Use when building real-time communication systems with WebSockets or Socket.IO. Invoke for bidirecti
+- **what-context-needed** (automatic): Ask Copilot what files it needs to see before answering a question
+- **winmd-api-search** (automatic): Find and explore Windows desktop APIs. Use when building features that need platform capabilities — 
+- **winui3-migration-guide** (automatic): UWP-to-WinUI 3 migration reference. Maps legacy UWP APIs to correct Windows App SDK equivalents with
+- **wordpress-pro** (automatic): Develops custom WordPress themes and plugins, creates and registers Gutenberg blocks and block patte
+- **workers-best-practices** (automatic): Reviews and authors Cloudflare Workers code against production best practices. Load when writing new
+- **workiq-copilot** (automatic): Guides the Copilot CLI on how to use the WorkIQ CLI/MCP server to query Microsoft 365 Copilot data (
+- **workshop-create** (automatic): Create a new workshop or use an existing directory as one. Handles two paths: (A) use an existing lo
+- **write-coding-standards-from-file** (automatic): Write a coding standards document for a project using the coding styles from the file(s) and/or fold
+- **writing-guidelines** (automatic): Review docs/prose for Writing Guidelines compliance. Use when asked to "review my docs", "check writ
+- **writing-plans** (automatic): Use when you have a spec or requirements for a multi-step task, before touching code
+- **writing-skills** (automatic): Use only when explicitly requested by name. Use when creating new skills, editing existing skills, o
+- **wycheproof** (automatic): Wycheproof provides test vectors for validating cryptographic implementations. Use when testing cryp
+- **x-api** (automatic): X/Twitter API integration for posting tweets, threads, reading timelines, search, and analytics. Cov
+- **x-twitter-scraper** (automatic): Build GitHub Copilot workflows with Xquik X API SDKs, REST endpoints, hosted Apify Actor runs, MCP t
+- **xlsx** (automatic): Use this skill any time a spreadsheet file is the primary input or output. This means any task where
+- **yara-rule-authoring** (automatic): Guides authoring of high-quality YARA-X detection rules for malware identification. Use when writing
+- **youtube-thumbnail** (automatic): Generate a branded YouTube thumbnail from a video title. Uses a reference photo of the creator, high
+- **zeroize-audit** (automatic): Detects missing zeroization of sensitive data in source code and identifies zeroization removed by c
+

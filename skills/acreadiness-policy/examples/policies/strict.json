@@ -1,0 +1,13 @@
+{
+  "name": "strict",
+  "criteria": {
+    "override": {
+      "readme": { "impact": "critical" },
+      "lint-config": { "impact": "high" },
+      "test-suite": { "impact": "critical" }
+    }
+  },
+  "thresholds": {
+    "passRate": 1.0
+  }
+}

@@ -1,0 +1,119 @@
+---
+name: New Skill Submission
+description: Propose a new skill for the library
+title: "[NEW SKILL] "
+labels: ["new-skill"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing a skill! Please provide the details below.
+  - type: input
+    id: skill_name
+    attributes:
+      label: Proposed Skill Name
+      description: Lowercase, kebab-case (e.g., "api-design", "react-performance")
+      placeholder: my-new-skill
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - AI/ML
+        - API/Backend
+        - Architecture
+        - Cloud/DevOps
+        - Database
+        - Frontend/UI
+        - Security
+        - Testing
+        - Code Quality
+        - Documentation
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Skill Description
+      description: What does this skill do? When should agents use it?
+      placeholder: |
+        This skill teaches agents how to...
+        Triggers: "optimize X", "debug Y", "design Z"
+    validations:
+      required: true
+  - type: dropdown
+    id: origin
+    attributes:
+      label: Origin
+      description: Where does this skill come from?
+      options:
+        - Original work (I wrote this)
+        - Adapted from my own project/blog
+        - Ported from [project] (provide URL in source field)
+        - Community pattern/folklore (no single source)
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL
+      description: If ported/adapted, link to original
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: false
+  - type: dropdown
+    id: license
+    attributes:
+      label: License
+      description: Original license of the skill content
+      options:
+        - MIT
+        - Apache-2.0
+        - BSD-3-Clause
+        - CC-BY-4.0
+        - Other (specify in next field)
+    validations:
+      required: true
+  - type: input
+    id: license_other
+    attributes:
+      label: Other License
+      description: If "Other" selected above
+      placeholder: e.g., MPL-2.0, proprietary-but-permissive
+    validations:
+      required: false
+  - type: textarea
+    id: attribution
+    attributes:
+      label: Attribution
+      description: Original author/project to credit
+      placeholder: |
+        Author: Jane Doe
+        Project: Awesome Framework
+        URL: https://github.com/janedoe/awesome
+    validations:
+      required: false
+  - type: checkboxes
+    id: requirements
+    attributes:
+      label: Requirements Checklist
+      options:
+        - label: SKILL.md has valid frontmatter (name, description, license)
+          required: true
+        - label: No real secrets, API keys, or credentials (use placeholders)
+          required: true
+        - label: Clear activation triggers in description
+          required: true
+        - label: Under 500 lines (detail offloaded to references/)
+          required: true
+        - label: Follows Agent Skills Specification format
+          required: true
+        - label: Validated locally with `python scripts/validate.py skills/my-skill`
+          required: true
+        - label: If third-party, original LICENSE file included in skill directory
+          required: false
+        - label: If third-party, ATTRIBUTION.md with source details included
+          required: false

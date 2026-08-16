@@ -1,0 +1,14 @@
+{
+  "name": "repo-health-only",
+  "criteria": {
+    "disable": [
+      "agents-md",
+      "copilot-instructions",
+      "prompt-files",
+      "mcp-config"
+    ]
+  },
+  "thresholds": {
+    "passRate": 0.85
+  }
+}

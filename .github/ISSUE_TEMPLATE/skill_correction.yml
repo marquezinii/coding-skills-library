@@ -1,0 +1,49 @@
+---
+name: Skill Correction
+description: Report an issue with an existing skill (outdated, incorrect, incomplete)
+title: "[CORRECTION] "
+labels: ["skill-correction"]
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Skill Name
+      description: Which skill needs correction?
+      placeholder: security-audit
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue Type
+      options:
+        - Outdated patterns/versions
+        - Incorrect example code
+        - Missing triggers/activation
+        - Broken links/references
+        - Confusing/unclear instructions
+        - Duplicate of another skill
+        - Should be explicit-only (or vice versa)
+        - License/attribution issue
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What is wrong and what should it be?
+      placeholder: |
+        Current: "Use React 18 patterns"
+        Should be: "Use React 19 patterns (useTransition, useOptimistic, etc.)"
+        Reference: https://react.dev/blog/2024/12/05/react-19
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I verified this against current upstream documentation
+          required: true
+        - label: This is not a security issue (use SECURITY.md for those)
+          required: true

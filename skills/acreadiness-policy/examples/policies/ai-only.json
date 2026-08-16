@@ -1,0 +1,15 @@
+{
+  "name": "ai-only",
+  "criteria": {
+    "disable": [
+      "readme",
+      "lint-config",
+      "test-suite",
+      "observability",
+      "dependabot"
+    ]
+  },
+  "thresholds": {
+    "passRate": 0.85
+  }
+}
